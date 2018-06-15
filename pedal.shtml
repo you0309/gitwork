@@ -1,0 +1,1702 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="./css/pedal.css" type="text/css">
+    <link type="text/css" href="./css/shadowbox.css" rel="stylesheet" media="all" />
+    
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+
+<script>
+$(function() {
+  var h = $(window).height();
+  
+ 
+  //$('#wrap').css('display','none');
+  $('#loader-bg ,#loader').height(h).css('display','block');
+});
+ 
+$(window).load(function () { //全ての読み込みが完了したら実行
+  $('#loader-bg').delay(900).fadeOut(800);
+  $('#loader').delay(600).fadeOut(300);
+ // $('#wrap').css('display', 'block');
+});
+ 
+//10秒たったら強制的にロード画面を非表示
+$(function(){
+  setTimeout('stopload()',10000);
+});
+ 
+function stopload(){
+ // $('#wrap').css('display','block');
+  $('#loader-bg').delay(900).fadeOut(800);
+  $('#loader').delay(600).fadeOut(300);
+}
+</script>
+
+
+<script type="text/javascript" src="./js/menubar.js"></script>
+<script type="text/javascript" src="./js/shadowbox.js"></script>
+<script type="text/javascript" src="./js/jquery.bxslider/jquery.bxslider.js"></script>
+    
+    
+    
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('.bxslider').bxSlider();
+        });
+</script>
+ 
+<script type="text/javascript">
+        Shadowbox.init();
+</script>
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101158368-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+    <title>PEDALCAR &amp; Electric Vehicle(ペダルカー)</title>
+</head>
+
+<div id="loader-bg">
+<div id="loader">
+<img src="img/loader/loading.gif" width="32" height="32" alt="Now Loading ...">
+<p>Now Loading...</p>
+</div><!-- end loader -->
+</div><!-- load-bg -->
+
+<body>
+
+<header id="header">
+<a href="index.html"><img src="img/top/logo-kanji01.jpg" class="kanji"></a>
+<!-- ここから共通 -->
+<div id="navi">
+<ul class="drop">
+<li class="fr"><a href="french.shtml"><b>フランス時代</b></a></li>
+<li class="eq"><a href="equip.shtml"><b>Antique Equipment</b></a></li>
+<li class="au"><a href="auto.shtml"><b>Auto Mobiles &amp; Motos</b></a>
+<!-- 2ndlevel
+<ul>
+<li><a href="#">Stock Cars</a></li>
+<li><a href="#">Sold Cars</a></li>
+</ul>
+2nd level -->
+</li>
+<li class="to"><a href="toy.shtml"><b>Toys</b></a>
+<ul><!-- 2nd level -->
+<li><a href="toy.shtml">Tin Toys</a>
+<ul><!-- 3rd level -->
+<li><a href="toy.shtml#VEH">Vehicle</a></li>
+<li><a href="toy.shtml#ROB">Robot,Doll</a></li>
+<li><a href="toy.shtml#PLA">Air Plane</a></li>
+<li><a href="toy.shtml#MIS">Misc...etc</a></li>
+</ul><!-- 3rd level -->
+</li>
+<li><a href="toy.shtml#FIG">Figure,Character Doll</a></li>
+<li><a href="toy.shtml#CAS">Die-Cast Cars</a></li>
+</ul><!-- 2nd level -->
+</li>
+<li class="pe"><a href="#"><b>Pedalcar &amp; ElectricVehicle</b></a></li>
+<li class="co"><a href="about.html" target="_blank"><b>ContactUs</b></a></li>
+</ul><!-- .drop -->
+</div><!-- .navi -->
+<!-- ここまで -->
+</header>
+<main id="main">
+
+<h1 class="midashi01">Pedalcar &amp; Electric Vehicle</h1>
+
+<div id="contents">
+<div id="contents-wrapper" class="01">
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1245_yellowcab/01.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/02.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/03.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/04.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/05.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/06.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/07.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1245_yellowcab/08.jpg" rel="shadowbox"><img src="pedal/img/1245_yellowcab/s/08.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1245</li>
+<li class="name">Yellow Cab</li>
+<li>ニューヨークの代名詞イエローキャブのペダルカーです。</li>
+<li>50年代のイエローキャブがペダルカーになりました。</li>
+<li>商品は、80年代後期のものです。</li>
+<li>SIZE L:910 W:335 H:550</li>
+<li class="kakaku">&yen;38,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="p2">
+
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1228_vespaba_battery/01.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/02.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/03.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/04.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/05.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/06.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/07.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/10.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/11.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/11.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/12.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/12.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/13.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/13.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/14.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/14.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/15.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/15.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/16.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/16.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/17.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/17.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/18.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/18.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/19.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/19.jpg" alt=""></a></li>
+<li><a href="pedal/img/1228_vespaba_battery/08.jpg" rel="shadowbox"><img src="pedal/img/1228_vespaba_battery/s/08.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1228</li>
+<li class="name">VESPA</li>
+<li>スクーターの代名詞 VESPA のバッテリーカーです。</li>
+<li>奇跡的にデッドストックが残っていました。</li>
+<li>当時の専用バッテリー、専用充電器も付属</li>
+<li>保存状態も良く、新品同様の綺麗さです。(動作確認済)</li>
+<li>商品は、80年代前期のものです。</li>
+<li>SIZE L:940 W:480 H:580</li>
+<li class="kakaku">&yen;150,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- end .p2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr156_baghera/01.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr156_baghera/02.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr156_baghera/03.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr156_baghera/04.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr156_baghera/05.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr156_baghera/06.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr156_baghera/07.jpg" rel="shadowbox"><img src="pedal/img/fr156_baghera/s/07.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR156</li>
+<li class="name">Classic Racer</li>
+<li>1920年代フランス車のペダルカーです。</li>
+<li>商品は、80年代後期のものです。</li>
+<li>made in France</li>
+<li>SIZE L:1100 W:430 H:530</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1296_2000gt_battery/02.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/03.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/04.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/05.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/06.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/07.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/08.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/09.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/10.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/11.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/11.jpg" alt=""></a></li>
+<li><a href="pedal/img/1296_2000gt_battery/12.jpg" rel="shadowbox"><img src="pedal/img/1296_2000gt_battery/s/12.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1296</li>
+<li class="name">TOYOTA 2000GT</li>
+<li>伝説の名車 トヨタ 2000GT バッテリーカーです。</li>
+<li>ペダルを踏むことで進みます、F-R 切り替え付き</li>
+<li>2000GT を特徴付けるひとつのリトラクタブルヘッドライトもグリル内部にある押しボタンでポップアップします。</li>
+<li>SIZE L:1030 W:480 H:420</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr131_red/01.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/02.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/03.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/04.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/05.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/06.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/07.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/08.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/08.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR131</li>
+<li class="name">Classic Car</li>
+<li>1950年代フランスのペダルカーです。</li>
+<li>made in France</li>
+<li>SIZE L:860 W:420 H:420</li>
+<li class="kakaku">&yen;45,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1220_midgetcar/01.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/02.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/03.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/04.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/05.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/06.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/07.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/08.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/1220_midgetcar/09.jpg" rel="shadowbox"><img src="pedal/img/1220_midgetcar/s/09.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1220</li>
+<li class="name">Midget Car</li>
+<li>1960年代ミゼットカーのペダルカーです。</li>
+<li>SIZE L:1130 W:530 H:570</li>
+<li class="kakaku">&yen;65,000-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr129_ds19_red/01.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/02.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/03.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/04.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/05.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/06.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/07.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/08.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/09.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/10.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/11.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/11.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR129</li>
+<li class="name">CITRO&Euml;N DS19</li>
+<li>1960年代の商品です。</li>
+<li>made in France</li>
+<li>SIZE L:1140 W:500 H:400</li>
+<li class="kakaku">&yen;130,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div>
+
+<div class="cap">
+<div class="p2"><!-- 写真16枚からこの<div>領域をつける -->
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1183_kotakara_red/01.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/02.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/03.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/04.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/05.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/06.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/07.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/08.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/09.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/10.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/11.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/11.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/12.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/12.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/13.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/13.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/14.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/14.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/15.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/15.jpg" alt=""></a></li>
+<li><a href="pedal/img/1183_kotakara_red/16.jpg" rel="shadowbox"><img src="pedal/img/1183_kotakara_red/s/16.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1183</li>
+<li class="name">1950s 子宝号(Kotakara)</li>
+<li>昭和の遺産とも言えるすばらしい造りです。</li>
+<li>made in Japan</li>
+<li>SIZE L:1110 W:490 H:600</li>
+<li class="kakaku">&yen;150,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- p2 -->
+</div><!-- cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1116_corvette/01.jpg" rel="shadowbox"><img src="pedal/img/1116_corvette/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1116_corvette/02.jpg" rel="shadowbox"><img src="pedal/img/1116_corvette/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1116_corvette/03.jpg" rel="shadowbox"><img src="pedal/img/1116_corvette/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1116_corvette/04.jpg" rel="shadowbox"><img src="pedal/img/1116_corvette/s/04.jpg" alt=""></a></li>
+<li><a href="https://www.youtube.com/embed/DGUFi0AFc0o?rel=0&autoplay=1" rel="shadowbox"><img src="pedal/img/1116_corvette/s/00.jpg" alt=""></a></li>
+<li><a href="pedal/img/1116_corvette/05.jpg" rel="shadowbox"><img src="pedal/img/1116_corvette/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1116_corvette/06.jpg" rel="shadowbox"><img src="pedal/img/1116_corvette/s/06.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1116</li>
+<li class="name">1970s Corvette (Iron Bumper)</li>
+<li>1970年代前期の商品です、BRIDGESTONE 製作。</li>
+<li>made in Japan。</li>
+<li>SIZE L:1060 W:480 H:480</li>
+<li class="kakaku">&yen;45,000-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1023_vespa-blue/01.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/01.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/02.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/02.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/03.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/03.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/04.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/04.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/05.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/05.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/06.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/06.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/07.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/07.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/08.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/08.jpg"></a></li>
+<li><a href="pedal/img/1023_vespa-blue/09.JPG" rel="shadowbox"><img src="pedal/img/1023_vespa-blue/s/09.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1023</li>
+<li class="name">VESPA</li>
+<li>世界中で人気のある傑作スクーター VESPA がペダルカーになりました。</li>
+<li>ヒップラインが秀逸です！</li>
+<li>SIZE L:940 W:480 H:580</li>
+<li class="kakaku">&yen;80,000-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1026_AirPlane_gray/01.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/01.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/02.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/02.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/03.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/03.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/04.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/04.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/05.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/05.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/06.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/06.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/07.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/07.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/08.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/08.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/09.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/09.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/10.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/10.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/11.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/11.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/12.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/12.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/13.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/13.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/14.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/14.jpg"></a></li>
+<li><a href="pedal/img/1026_AirPlane_gray/15.JPG" rel="shadowbox"><img src="pedal/img/1026_AirPlane_gray/s/15.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1026</li>
+<li class="name">USAF Air Plane</li>
+<li>レシプロ戦闘機の最高傑作!! MUSTANG P-51 をモデルに製作されました。</li>
+<li>デフォルメが効いてます！</li>
+<li>made in USA</li>
+<li>SIZE L:1170 W:920 H:650</li>
+<li class="kakaku">&yen;75,000-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+ <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/01.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/02.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/03.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/04.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/05.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/06.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR036</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1280 W:500 H:425</li>
+                            <li class="kakaku">&yen;130,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/01.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/02.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/03.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/04.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/05.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/06.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/07.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/07.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR040</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>1950年代後期～1960年代前期の商品です。</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1190 W:500 H:435</li>
+                            <!-- <li class="kakaku">&yen;180,000-</li> -->
+                            <li class="kakaku">&yen;160,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="02" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/01.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/02.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/03.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/04.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/05.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/05.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR030</li>
+                            <li class="name">FOMULA CAR F2</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1230 W:670 H:540</li>
+                            <li class="kakaku">&yen;120,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+<div class="cap">
+<div class="bx1">
+<ul id="02" class="bxslider">
+<li><a href="pedal/img/fr038_DS21_red/01.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/01.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/02.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/02.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/03.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/03.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/04.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/04.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/05.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/05.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/06.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/06.JPG" /></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR038</li>
+<li class="name">CITRO&Euml;N DS21 RED</li>
+<li>日本にはほとんど輸入されていません。</li>
+<li>made in France</li>
+<li>SIZE L:1280 W:500 H:425</li>
+<li class="kakaku">&yen;140,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div>
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                            <li>
+                                <a href="pedal/img/656-4_cadillac/01.JPG" rel="shadowbox"><img src="pedal/img/656-4_cadillac/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/656-4_cadillac/02.JPG" rel="shadowbox"><img src="pedal/img/656-4_cadillac/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/656-4_cadillac/03.JPG" rel="shadowbox"><img src="pedal/img/656-4_cadillac/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/656-4_cadillac/04.JPG" rel="shadowbox"><img src="pedal/img/656-4_cadillac/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/656-4_cadillac/05.JPG" rel="shadowbox"><img src="pedal/img/656-4_cadillac/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/656-4_cadillac/06.JPG" rel="shadowbox"><img src="pedal/img/656-4_cadillac/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.656-4</li>
+                            <li class="name">1959年CADILLAC</li>
+                            <li>日本製の造りの細かさが活きています。</li>
+                            <li>made in Japan</li>
+                            <li>SIZE L:1000 W:500 H:390</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div><!-- end .cap -->
+
+<div class="cap">
+<div class="p2"><!-- 写真16枚からこの<div>領域をつける -->
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1017_kotakara_police/01.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/01.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/02.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/02.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/03.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/03.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/04.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/04.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/05.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/05.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/06.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/06.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/07.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/07.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/08.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/08.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/09.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/09.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/10.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/10.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/11.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/11.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/12.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/12.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/13.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/13.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/14.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/14.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/15.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/15.JPG" /></a></li>
+<li><a href="pedal/img/1017_kotakara_police/16.JPG" rel="shadowbox"><img src="pedal/img/1017_kotakara_police/s/16.JPG" /></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1017</li>
+<li class="name">1950s 子宝号(Kotakara) POLICE</li>
+<li>昭和の遺産とも言えるすばらしい造りです。</li>
+<li>ダッシュボード右のボタンを押すと懐かしいサイレン音が鳴ります。
+</li>
+<li>made in Japan</li>
+<li>SIZE L:1080 W:450 H:530</li>
+<li class="kakaku">&yen;120,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- p2 -->
+</div><!-- cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1019_s30_green/01.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/01.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/02.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/02.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/03.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/03.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/04.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/04.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/05.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/05.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/06.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/06.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/07.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/07.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/08.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/08.jpg"></a></li>
+<li><a href="pedal/img/1019_s30_green/09.JPG" rel="shadowbox"><img src="pedal/img/1019_s30_green/s/09.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1019</li>
+<li class="name">1950s PEDALCAR</li>
+<li>1950年代前期のペダルカーです。</li>
+<li>ウッドフレームに鉄板張りの凝った造りです。</li>
+<li>made in Japan</li>
+<li>SIZE L:900 W:450 H:530</li>
+<li class="kakaku">&yen;35,000-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+                <div class="cap">
+                    <div class="p2">
+                        <!-- 写真16枚からこの<div>領域をつける -->
+                        <div class="bx1">
+                            <ul id="01" class="bxslider">
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/01.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/01.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/02.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/02.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/03.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/03.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/04.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/04.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/05.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/05.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/06.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/06.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/07.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/07.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/08.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/08.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/09.JPG" title="バックミラーも付いています。" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/09.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/10.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/10.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/11.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/11.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/12.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/12.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/13.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/13.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/14.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/14.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/15.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/15.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/16.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/16.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/17.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/17.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/18.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/18.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/19.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/19.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/20.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/20.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/21.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/21.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1015_kotakara_green/22.JPG" rel="shadowbox"><img src="pedal/img/1015_kotakara_green/s/22.JPG" /></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- bx1 -->
+                        <div class="bx2">
+                            <ul class="cap2">
+                                <li>No.1015</li>
+                                <li class="name">1950s 子宝号(Kotakara)</li>
+                                <li>昭和の遺産とも言えるすばらしい造りです。</li>
+                                <li>made in Japan</li>
+                                <li>SIZE L:1110 W:490 H:600</li>
+                                <li class="kakaku">&yen;200,000-</li>
+                            </ul>
+                        </div>
+                        <!-- bx2 -->
+                    </div>
+                    <!-- p2 -->
+                </div>
+                <!-- cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1221_40s/01.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/02.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/03.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/04.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/05.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/06.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/07.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/08.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/09.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/10.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/11.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/11.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/12.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/12.jpg" alt=""></a></li>
+<li><a href="pedal/img/1221_40s/13.jpg" rel="shadowbox"><img src="pedal/img/1221_40s/s/13.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1221</li>
+<li class="name">40' American</li>
+<li>1940年代アメ車の典型的な容です。</li>
+<li>SIZE L:910 W:430 H:520</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr130_lotus/01.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/02.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/03.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/04.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/05.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/06.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/07.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/08.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/09.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/10.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/11.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/11.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR130</li>
+<li class="name">LOTUS F1</li>
+<li>1960年代後期～1970年代前期の商品です。</li>
+<li>made in France</li>
+<li>SIZE L:1000 W:660 H:300</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1147_chevrolet-red/01.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/02.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/03.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/04.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/05.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/06.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/07.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/08.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/09.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/1147_chevrolet-red/10.jpg" rel="shadowbox"><img src="pedal/img/1147_chevrolet-red/s/10.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1147</li>
+<li class="name">CHEVROLET</li>
+<li>1970年代の商品です。</li>
+<li>50年代アメ車の特徴を良く捉えています。</li>
+<li>made in USA</li>
+<li>SIZE L:1015 W:430 H:465</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1166_fire-dpt/01.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/02.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/03.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/04.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/05.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/06.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/07.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/08.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/09.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/10.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/1166_fire-dpt/11.jpg" rel="shadowbox"><img src="pedal/img/1166_fire-dpt/s/11.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1160</li>
+<li class="name">1980s Classicc Fire Engine</li>
+<li>1980年代前期の商品です、アンティーク感が溢れています。</li>
+<li>1930年代頃の消防車を模したペダルカーです。</li>
+<li>SIZE L:1080 W:570 H:590</li>
+<!-- <li class="kakaku">&yen;45,000-</li> -->
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr099_grandprix_blk/01.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/02.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/03.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/04.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/05.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/06.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/07.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/08.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/09.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr099_grandprix_blk/10.jpg" rel="shadowbox"><img src="pedal/img/fr099_grandprix_blk/s/10.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR099</li>
+<li class="name">1980s Grand Prix</li>
+<li>1980年代後期の商品です、アンティーク感が溢れています。</li>
+<li>フランスのアンティークショップより買い付け商品です。</li>
+<li>SIZE L:1150 W:420 H:520</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1046_classic_pickup/01.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/01.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/02.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/02.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/03.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/03.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/04.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/04.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/05.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/05.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/06.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/06.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/07.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/07.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/08.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/08.jpg"></a></li>
+<li><a href="pedal/img/1046_classic_pickup/09.JPG" rel="shadowbox"><img src="pedal/img/1046_classic_pickup/s/09.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1046</li>
+<li class="name">1980s Classicc Station Wagon</li>
+<li>1980年代前期の商品です、アンティーク感が溢れています。</li>
+<li>往年のWoodyワゴンを思い出しますね。</li>
+<li>SIZE L:1090 W:555 H:590</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+    
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1025_mustang-police/01.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/01.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/02.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/02.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/03.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/03.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/04.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/04.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/05.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/05.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/06.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/06.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/07.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/07.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/08.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/08.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/09.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/09.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/10.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/10.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/11.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/11.jpg"></a></li>
+<li><a href="pedal/img/1025_mustang-police/12.JPG" rel="shadowbox"><img src="pedal/img/1025_mustang-police/s/12.jpg"></a></li>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1025</li>
+<li class="name">MUSTANG Police</li>
+<li>後年、本当に高速パトロール用に MUSTANG が導入されたのは有名な話です。</li>
+<li>made in JAPAN</li>
+<li>SIZE L:990 W:450 H:530</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1024_fire-truck/01.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/01.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/02.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/02.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/03.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/03.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/04.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/04.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/05.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/05.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/06.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/06.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/07.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/07.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/08.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/08.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/09.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/09.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/10.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/10.jpg"></a></li>
+<li><a href="pedal/img/1024_fire-truck/11.JPG" rel="shadowbox"><img src="pedal/img/1024_fire-truck/s/11.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1024</li>
+<li class="name">FIRE TRUCK</li>
+<li>1970年代前期の商品です。</li>
+<li>Faceが古いFORD Truck のような可愛い FIRE TRUCK です。</li>
+<li>木製梯子付き！</li>
+<li>SIZE L:1080 W:430 H:500</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+            <div class="cap">
+                    <div class="bx1">
+                    
+                        <ul id="01" class="bxslider">
+                            <li><a href="pedal/img/998_classic_blue/01.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/01.JPG" /></a></a></li>
+                            <li><a href="pedal/img/998_classic_blue/02.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/02.JPG" /></a></a></li>
+                            <li><a href="pedal/img/998_classic_blue/03.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/03.JPG" /></a></a></li>
+                            <li><a href="pedal/img/998_classic_blue/04.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/04.JPG" /></a></a></li>
+                            <li><a href="pedal/img/998_classic_blue/05.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/05.JPG" /></a></a></li>
+                            <li><a href="pedal/img/998_classic_blue/06.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/06.JPG" /></a></a></li>
+                            <li><a href="pedal/img/998_classic_blue/07.JPG" rel="shadowbox[998]"><img src="pedal/img/998_classic_blue/s/07.JPG" /></a></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.998</li>
+                            <li class="name">1980s Classic Car</li>
+                            <li>1980年代前期の商品です、アンティーク感が溢れています。</li>
+                            <li>SIZE L:980 W:570 H:590</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div><!-- .cap -->
+            
+            
+            
+            <div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                            <li><a href="pedal/img/973_chevrolet_bell_air/01.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/01.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/02.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/02.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/03.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/03.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/04.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/04.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/05.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/05.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/06.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/06.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/07.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/07.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/08.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/08.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/09.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/09.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/10.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/10.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/11.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/11.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/12.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/12.jpg" /></a></li>
+                            <li><a href="pedal/img/973_chevrolet_bell_air/13.JPG" rel="shadowbox"><img src="pedal/img/973_chevrolet_bell_air/s/13.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.993</li>
+                            <li class="name">CHEVROLET BellAir</li>
+                            <li>1970年代の商品です、奇跡のデッドストック！</li>
+                            <li>メーカー保管のプロトタイプです。</li>
+                            <li>made in USA</li>
+                            <li>SIZE L:1015 W:430 H:465</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div><!-- .cap -->
+
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                            <li>
+                                <a href="pedal/img/997_classic_black/01.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/997_classic_black/02.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/997_classic_black/03.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/997_classic_black/04.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/997_classic_black/05.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/997_classic_black/06.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/997_classic_black/07.JPG" rel="shadowbox"><img src="pedal/img/997_classic_black/s/07.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.997</li>
+                            <li class="name">1980s Classic Car</li>
+                            <li>1980年代前期の商品です、アンティーク感が溢れています。</li>
+                            <li>SIZE L:980 W:570 H:590</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div><!-- .cap -->
+                
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                            <li><a href="pedal/img/910_heri/01.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/01.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/02.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/02.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/03.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/03.jpg" /></a></li>
+                            <li><a href="https://www.youtube.com/embed/QRZxy_gzJIc?rel=0&autoplay=1" rel="shadowbox"><img src="pedal/img/910_heri/s/10.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/05.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/05.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/06.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/06.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/07.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/07.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/08.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/08.jpg" /></a></li>
+                            <li><a href="pedal/img/910_heri/09.JPG" rel="shadowbox"><img src="pedal/img/910_heri/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.910</li>
+                            <li class="name">Electric HELICOPTER</li>
+                            <li>電動乗用遊具</li>
+                            <li>レトロ感たっぷりですね！</li>
+                            <li>made in JAPAN</li>
+                            <li>SIZE L:1500 W:900 H:1580</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div><!-- .cap -->
+
+
+                <div class="cap">
+                    <div class="p2">
+                        <!-- 写真16枚からこの<div>領域をつける -->
+                        <div class="bx1">
+                            <ul id="01" class="bxslider">
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/01.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/01.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/02.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/02.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/03.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/03.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/04.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/04.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/05.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/05.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/06.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/06.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/07.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/07.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/08.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/08.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/09.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/09.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/10.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/10.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/11.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/11.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/12.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/12.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/13.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/13.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/14.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/14.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/15.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/15.JPG" /></a>
+                                </li>
+                                <li>
+                                    <a href="pedal/img/1016_kotakara_blue/16.JPG" rel="shadowbox"><img src="pedal/img/1016_kotakara_blue/s/16.JPG" /></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- bx1 -->
+                        <div class="bx2">
+                            <ul class="cap2">
+                                <li>No.1016</li>
+                                <li class="name">1950s 子宝号(Kotakara)</li>
+                                <li>昭和の遺産とも言えるすばらしい造りです。</li>
+                                <li>made in Japan</li>
+                                <li>SIZE L:950 W:420 H:540</li>
+                                <li class="kakaku">-SOLD-</li>
+                            </ul>
+                        </div>
+                        <!-- bx2 -->
+                    </div>
+                    <!-- p2 -->
+                </div>
+                <!-- cap -->
+                
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/1018_s30_orange/01.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/01.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/02.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/02.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/03.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/03.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/04.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/04.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/05.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/05.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/06.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/06.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/07.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/07.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/08.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/08.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/09.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/09.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/10.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/10.jpg"></a></li>
+<li><a href="pedal/img/1018_s30_orange/11.JPG" rel="shadowbox"><img src="pedal/img/1018_s30_orange/s/11.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1018</li>
+<li class="name">1950s PEDALCAR</li>
+<li>1950年代前期のペダルカーです。</li>
+<li>ウッドフレームに鉄板張り、鋳物ハンドルの凝った造りです。</li>
+<li>made in Japan</li>
+<li>SIZE L:900 W:450 H:530</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/01.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/02.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/03.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/04.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/05.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/06.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/07.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/07.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/08.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/08.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR084</li>
+                            <li class="name">1950s Fomula</li>
+                            <li>1950年代フランスの商品です。</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1320 W:530 H:530</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+
+                
+                
+                
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/725_fomula_red/01.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/02.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/03.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/04.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/05.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/06.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/07.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/08.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/725_fomula_red/09.jpg" rel="shadowbox"><img src="pedal/img/725_fomula_red/s/09.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.725</li>
+<li class="name">PEDALCAR Fomula2 Ferrari</li>
+<li>1952～1957年 Ferrari F2 マシン(166 F2 ?)をモデルに製作されています。</li>
+<li>デッドストック</li>
+<li>SIZE L:1320 W:620 H:540</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+                
+                
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/914_amesha/01.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/01.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/02.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/02.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/03.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/03.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/04.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/04.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/05.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/05.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/06.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/06.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/07.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/07.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/08.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/08.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/09.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/09.jpg"></a></li>
+<li><a href="pedal/img/914_amesha/10.JPG" rel="shadowbox"><img src="pedal/img/914_amesha/s/10.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.914</li>
+<li class="name">PEDALCAR</li>
+<li>1940年代～1950年代の典型的なアメ車の形をしたペダルカーです。</li>
+<li>キャンディーレッドのボディーカラーとピンストライプがより雰囲気を盛り上げてくれます。</li>
+<li>SIZE L:960 W:450 H:510</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr27_lotus_red/01.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/01.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/02.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/02.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/03.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/03.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/04.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/04.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/05.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/05.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/07.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/07.JPG" /></a>
+</li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR027</li>
+<li class="name">LOTUS FOMULA RED</li>
+<li>1960年代後期～1970年代前期の商品です。</li>
+<li>made in France</li>
+<li>SIZE L:1140 W:560 H:380</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="02" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/01.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/02.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/03.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/04.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/05.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/06.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR029</li>
+                            <li class="name">LOTUS FOMULA RUST</li>
+                            <li>made in France</li>
+                            <li>SIZE L:980 W:650 H:370</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="02" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/01.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/02.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/03.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/04.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/05.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/05.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR031</li>
+                            <li class="name">MG FOMULA ORANGE</li>
+                            <li>made in France</li>
+                            <li>SIZE L:900 W:460 H:410</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/01.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/02.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/03.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/04.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/05.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/06.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/07.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/07.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/09.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/09.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/10.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/10.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR028</li>
+                            <li class="name">LOTUS FOMULA BLACK</li>
+                            <li>made in France</li>
+                            <li>SIZE L:990 W:610 H:380</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/01.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/02.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/03.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/04.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/05.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/06.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR032</li>
+                            <li class="name">FOMULA LONG</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1230 W:640 H:380</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/01.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/02.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/03.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/04.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/05.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/06.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR033</li>
+                            <li class="name">DF Charlieu FOMULA</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1410 W:660 H:410</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/01.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/01.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/02.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/02.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/03.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/03.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/04.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/04.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/05.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/05.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/06.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/06.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/07.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/07.JPG"></a>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR034</li>
+                            <li class="name">CHAPARRAL</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1090 W:430 H:400</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/01.JPG" rel="shadowbox"><img src="pedal/img/fr035_DS19_fblue/s/01.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/02.JPG" rel="shadowbox"><img src="pedal/img/fr035_DS19_fblue/s/02.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/03.JPG" rel="shadowbox"><img src="pedal/img/fr035_DS19_fblue/s/03.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/04.JPG" rel="shadowbox"><img src="pedal/img/fr035_DS19_fblue/s/04.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/05.JPG" rel="shadowbox"><img src="pedal/img/fr035_DS19_fblue/s/05.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/06.JPG" rel="shadowbox"><img src="pedal/img/fr035_DS19_fblue/s/06.JPG"></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR035</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1190 W:490 H:470</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/01.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/02.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/03.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/04.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/05.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/06.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/06.JPG" /></a>
+                            </li>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR037</li>
+                            <li class="name">CART TYPE</li>
+                            <li>made in France</li>
+                            <li>SIZE L:870 W:510 H:500</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+            </div>
+            <!--  #"contents-wrapper  -->
+            
+
+        </div>
+        <!-- #contents -->
+
+    </main>
+
+    <footer id="footer">
+        <hr>
+
+        <div class=insta>
+            <a href="http://www.instagram.com/bankokuya_official/" target="_blank" title="INSTAGRAM"><img src="img/about/instagramlogo.png" border="0" alt="インスタグラム" width="143" height="43"></a>
+        </div>
+        <!-- .insta -->
+        <div class="insta-photo">
+            <!-- SnapWidget -->
+            <!-- SnapWidget -->
+            <iframe src="https://snapwidget.com/embed/344846" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:808px; height:101px"></iframe>
+        </div>
+        <div class="copy">Copyright &copy; 2004-2017 BANKOKUYA inc. All Rights Reserved.</div>
+
+    </footer>
+
+</body>
+
+</html>

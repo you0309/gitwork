@@ -1,0 +1,2049 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="./css/french.css" type="text/css">
+    <link type="text/css" href="./css/shadowbox.css" rel="stylesheet" media="all" />
+
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+ 
+<script>
+$(function() {
+  var h = $(window).height();
+ 
+  //$('#wrap').css('display','none');
+  $('#loader-bg ,#loader').height(h).css('display','block');
+});
+ 
+$(window).load(function () { //全ての読み込みが完了したら実行
+  $('#loader-bg').delay(900).fadeOut(800);
+  $('#loader').delay(600).fadeOut(300);
+ // $('#wrap').css('display', 'block');
+});
+ 
+//10秒たったら強制的にロード画面を非表示
+$(function(){
+  setTimeout('stopload()',10000);
+});
+ 
+function stopload(){
+ // $('#wrap').css('display','block');
+  $('#loader-bg').delay(900).fadeOut(800);
+  $('#loader').delay(600).fadeOut(300);
+}
+</script>
+
+<script type="text/javascript" src="./js/jquery.bxslider/jquery.bxslider.js"></script>
+<script type="text/javascript" src="./js/menubar.js"></script>
+<script type="text/javascript" src="./js/shadowbox.js"></script>
+
+
+<script type="text/javascript">
+        //bxslider用
+        $(document).ready(function() {
+            $('.bxslider').bxSlider();
+        });
+</script>
+ 
+<script type="text/javascript">
+    Shadowbox.init();
+ </script>
+ 
+ <script type="text/javascript" src="./js/pagescroll.js"></script>
+ 
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101158368-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+	
+<title>フランス時代</title>
+</head>
+
+<div id="loader-bg">
+<div id="loader">
+<img src="img/loader/loading.gif" width="32" height="32" alt="Now Loading ...">
+<p>Now Loading...</p>
+</div><!-- end loader -->
+</div><!-- load-bg -->  
+
+<body>
+
+<header id="header">
+<a href="index.html"><img src="img/top/logo-kanji01.jpg" class="kanji"></a>
+<!-- ここから共通 -->
+<div id="navi">
+<ul class="drop">
+<li class="fr"><a href="#"><b>フランス時代</b></a></li>
+<li class="eq"><a href=equip.shtml><b>Antique Equipment</b></a></li>
+<li class="au"><a href="auto.shtml"><b>Auto Mobiles &amp; Motos</b></a>
+<!-- 2ndlevel
+<ul>
+<li><a href="#">Stock Cars</a></li>
+<li><a href="#">Sold Cars</a></li>
+</ul>
+2nd level -->
+</li>
+<li class="to"><a href="toy.shtml"><b>Toys</b></a>
+<ul><!-- 2nd level -->
+<li><a href="toy.shtml">Tin Toys</a>
+<ul><!-- 3rd level -->
+<li><a href="toy.shtml#VEH">Vehicle</a></li>
+<li><a href="toy.shtml#ROB">Robot,Doll</a></li>
+<li><a href="toy.shtml#PLA">Air Plane</a></li>
+<li><a href="toy.shtml#MIS">Misc...etc</a></li>
+</ul><!-- 3rd level -->
+</li>
+<li><a href="toy.shtml#FIG">Figure,Character Doll</a></li>
+<li><a href="toy.shtml#CAS">Die-Cast Cars</a></li>
+</ul><!-- 2nd level -->
+</li>
+<li class="pe"><a href="pedal.shtml"><b>Pedalcar &amp; ElectricVehicle</b></a></li>
+<li class="co"><a href="about.html" target="_blank"><b>ContactUs</b></a></li>
+</ul><!-- .drop -->
+</div><!-- .navi -->
+<!-- ここまで -->
+</header>
+
+<main id="main"> 
+
+<h1 class="midashi01">フランス時代</h1>
+<p class="detail">フランスより直輸入の自動車、スクーター、自転車、ブリキのおもちゃ、その他・アンティークを御紹介します。</p>
+
+<div id="contents">
+
+<div id="POS"><a name="POS"></a></div>                 
+<div class="midashi02"><h2>Vintage French Movie Poster</h2></div>
+<p class="detail">1930年代～1960年代、フランス映画のポスターです、当時の映画館のロビー貼られていた貴重な品です。</p>
+<div class="contents-wrapper">
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_carottiers/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_carottiers/s/01.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_carottiers/02.jpg" rel="shadowbox"><img src="french/img/poster/fr140_carottiers/s/02.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_carottiers/03.jpg" rel="shadowbox"><img src="french/img/poster/fr140_carottiers/s/03.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_carottiers/04.jpg" rel="shadowbox"><img src="french/img/poster/fr140_carottiers/s/04.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_carottiers/05.jpg" rel="shadowbox"><img src="french/img/poster/fr140_carottiers/s/05.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_carottiers/06.jpg" rel="shadowbox"><img src="french/img/poster/fr140_carottiers/s/06.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">Les Carottiers</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_rififi/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_rififi/s/01.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_rififi/02.jpg" rel="shadowbox"><img src="french/img/poster/fr140_rififi/s/02.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_rififi/03.jpg" rel="shadowbox"><img src="french/img/poster/fr140_rififi/s/03.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_rififi/04.jpg" rel="shadowbox"><img src="french/img/poster/fr140_rififi/s/04.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_rififi/05.jpg" rel="shadowbox"><img src="french/img/poster/fr140_rififi/s/05.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_rififi/06.jpg" rel="shadowbox"><img src="french/img/poster/fr140_rififi/s/06.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">Rififi a Tokyo</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_danny/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_danny/s/01.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">Vive Monsieur le MAIRE</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_en_croisiere/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_en_croisiere/s/01.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">En CROISI&Egrave;RE</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_le_as_d_oxford/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_le_as_d_oxford/s/01.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_le_as_d_oxford/02.jpg" rel="shadowbox"><img src="french/img/poster/fr140_le_as_d_oxford/s/02.jpg" alt=""></a></li>
+<li><a href="french/img/poster/fr140_le_as_d_oxford/03.jpg" rel="shadowbox"><img src="french/img/poster/fr140_le_as_d_oxford/s/03.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">Les as d&acute;Oxford</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_petit_prf/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_petit_prf/s/01.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">Le Petit Prof</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_suzy_delair/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_suzy_delair/s/01.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">Atoll &quot;K&quot;</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="french/img/poster/fr140_taur/01.jpg" rel="shadowbox"><img src="french/img/poster/fr140_taur/s/01.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR140</li>
+<li class="name">TAUR le ROI de la FORCE BRUTLE</li>
+<li>Frame SIZE H:1,740 W:1,345(mm)</li>
+<li class="kakaku">額装済 &yen;65,000-</li>
+<li class="kakaku">ポスターのみ &yen;20,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+</div> <!-- end contents-wrapper -->
+
+
+<div id="AUT"><a name="AUT"></a></div>
+<div class="midashi02"><h2>Automobiles &amp; Motos</h2></div>
+<div class="midashi02"><h4>Automobiles</h4></div>
+
+<div class="contents-wrapper">
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fam789_1967_2cv_ak.shtml" target="_parent"><img src="auto/img/fam789_1967_2cv_ak/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FAM789</li>
+<li class="name">1967 CITRO&Euml;N 2CV AK(Fourgonnette)</li>
+<li>made in France</li>
+<li>1967年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fam782_1958_2cv_az.shtml" target="_blank"><img src="auto/img/fam782_1958_2cv_az/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FAM782</li>
+<li class="name">1958 CITRO&Euml;N 2CV AZ</li>
+<li>made in France</li>
+<li>1958年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fam783_1970_2cvakb.shtml" target="_blank"><img src="auto/img/fam783_1970_2cvakb/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FAM783</li>
+<li class="name">1970 CITRO&Euml;N 2CV AKB(Fourgonnette)</li>
+<li>made in France</li>
+<li>1970年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fam775_1961_2CV_AZ.shtml" target="_blank"><img src="auto/img/fam775_1961_2CV_AZ/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FAM775</li>
+<li class="name">1961 CITRO&Euml;N 2CV</li>
+<li>made in France</li>
+<li>1961年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fam_770_1962_2CV_AZ.shtml" target="_blank"><img src="auto/img/fam_770_1962_2CV_AZ/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FAM770</li>
+<li class="name">1962 CITRO&Euml;N 2CV (centrifugal clutch)</li>
+<li>made in France</li>
+<li>1962年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+</div> <!-- end contents-wrapper -->
+
+<div class="midashi02"><h4>Motos</h4></div>
+<div class="contents-wrapper">
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc169_57lambrettaLD.shtml" target="_parent"><img src="auto/img/fmc169_57lambrettaLD/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC169</li>
+<li class="name">1957 INNOCENTI LAMBRETTA LD 125cc</li>
+<li>made in Italy</li>
+<li>1957年</li>
+<li class="kakaku">&yen;680,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc165_55motobecane.shtml" target="_parent"><img src="auto/img/fmc165_55motobecane/30.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC165</li>
+<li class="name">1955 MOTOBECANE MOBY 125cc</li>
+<li>made in France</li>
+<li>1955年</li>
+<li class="kakaku">&yen;500,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc168_58acma_faro.shtml" target="_parent"><img src="auto/img/fmc168_58acma_faro/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC168</li>
+<li class="name">1958 ACMA VESPA Faro Basso 125cc</li>
+<li>made in France</li>
+<li>1958年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc167_81peugeot_105r.shtml" target="_parent"><img src="auto/img/fmc167_81peugeot_105r/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC168</li>
+<li class="name">1981 PEUGEOT 105R 50cc</li>
+<li>made in France</li>
+<li>1981年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc166_58garelli_mosquitto.shtml" target="_parent"><img src="auto/img/fmc166_58garelli_mosquitto/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC168</li>
+<li class="name">1958 GARELLI Mosquitto 50cc</li>
+<li>made in France</li>
+<li>1958年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc164_1955acma_vespa.shtml" target="_parent"><img src="auto/img/fmc164_1955acma_vespa/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC164</li>
+<li class="name">1955 ACMA 125cc</li>
+<li>made in France</li>
+<li>1965年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc163_65_lambretta_LI.shtml" target="_parent"><img src="auto/img/fmc163_65_lambretta_LI/03.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC163</li>
+<li class="name">1965 INNOCENTI LAMBRETTA LI 125cc</li>
+<li>made in Italy</li>
+<li>1965年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc162_56_acma_vespa.shtml" target="_parent"><img src="auto/img/fmc162_56_acma_vespa/04.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC162</li>
+<li class="name">1956 ACMA VESPA 125cc</li>
+<li>made in France</li>
+<li>1956年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc160_67vespa_l_50.shtml" target="_parent"><img src="auto/img/fmc160_67vespa_l_50/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC160</li>
+<li class="name">1967 PIAGGIO VESPA Type L V5A1T 50cc</li>
+<li>made in Italy</li>
+<li>1967年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc161_53lambretta_LD.shtml" target="_parent"><img src="auto/img/fmc161_53lambretta_LD/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC161</li>
+<li class="name">1953 LAMBRETTA LD 125cc</li>
+<li>made in Italy</li>
+<li>1953年</li>
+<li class="kakaku">&yen;750,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc156_1956_lambretta_LD_125.shtml" target="_blank"><img src="auto/img/fmc156_1956_lambretta_LD_125/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC156</li>
+<li class="name">1956 LAMBRETTA LD 125cc</li>
+<li>made in Italy</li>
+<li>1956年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc154_1954peugeot_s57c.shtml" target="_blank"><img src="auto/img/fmc154_1954peugeot_s57c/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC154</li>
+<li class="name">1954 PEUGEOT S57C 125cc</li>
+<li>made in France</li>
+<li>1954年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc155_1966piaggio_vespa_vbb2t_150.shtml" target="_blank"><img src="auto/img/fmc155_1966piaggio_vespa_vbb2t_150/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC155</li>
+<li class="name">1966 PIAGGIO VESPA VBB2T 150cc</li>
+<li>made in Italy</li>
+<li>1966年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc157_1969_peugiot_102mr.shtml" target="_blank"><img src="auto/img/fmc157_1969_peugiot_102mr/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC157</li>
+<li class="name">1969 PEUGEOT 102MR 50cc</li>
+<li>made in France</li>
+<li>1969年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc158_54acma_vespa_n_150.shtml" target="_blank"><img src="auto/img/fmc158_54acma_vespa_n_150/01.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC158</li>
+<li class="name">1957 ACMA VESPA TypeN 150cc</li>
+<li>made in France</li>
+<li>1957年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc149_1953_acma-vespa_125.shtml" target="_blank"><img src="auto/img/fmc149_1953_acma-vespa_125/001.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC149</li>
+<li class="name">1953 ACMA VESPA 125cc</li>
+<li>made in France</li>
+<li>1953年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc145_1954_motobecane_moby_125.shtml" target="_blank"><img src="auto/img/fmc145_1954_motobecane_moby_125/001.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC145</li>
+<li class="name">1954 MOTOBECANE MOBY Scooter 125cc</li>
+<li>made in France</li>
+<li>1954年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<a href="auto/fmc146_1956_acma_vespa_125.shtml" target="_blank"><img src="auto/img/fmc146_1956_acma_vespa_125/001.jpg" alt=""></a>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FMC146</li>
+<li class="name">1956 ACMA VESPA 125cc</li>
+<li>made in France</li>
+<li>1956年</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+</div> <!-- end contents-wrapper -->
+
+
+<div id="BIC"><a name="BIC"></a></div>                 
+<div class="midashi02"><h2>Vintage Bicycle</h2></div>
+<div class="contents-wrapper">
+
+<div class="cap">
+<div class="p2">
+<!-- 写真16枚からこの<div>領域をつける -->
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="equip/img/bicycle/fr132_galaxy/01.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/01.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/02.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/02.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/03.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/03.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/04.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/04.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/05.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/05.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/06.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/06.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/07.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/07.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/08.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/08.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/09.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/09.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/10.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/10.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/11.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/11.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/12.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/12.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/13.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/13.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/14.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/14.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/15.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/15.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr132_galaxy/16.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr132_galaxy/s/16.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR132</li>
+<li class="name">GALAXY</li>
+<li>made in Italy</li>
+<li>1960&prime;s後期</li>
+<li>SIZE 700c</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- end p2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="equip/img/bicycle/fr133_raleigh/01.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/01.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/02.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/02.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/03.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/03.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/04.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/04.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/05.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/05.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/06.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/06.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/07.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/07.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/08.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/08.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/09.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/09.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/10.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/10.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/11.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/11.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/12.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/12.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/13.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/13.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr133_raleigh/14.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr133_raleigh/s/14.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR133</li>
+<li class="name">RALEIGH Sports</li>
+<li>made in England</li>
+<li>1960&prime;s</li>
+<li>SIZE 26inch</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/01.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/01.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/02.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/02.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/03.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/03.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/04.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/04.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/05.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/05.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/06.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/06.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/07.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/07.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/08.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/08.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/09.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/09.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/10.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/10.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/11.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/11.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/12.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/12.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/13.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/13.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/14.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/14.jpg" alt="PEUGEOT"></a></li>
+<li><a href="equip/img/bicycle/fr104_bicycle_peugeot/15.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr104_bicycle_peugeot/s/15.jpg" alt="PEUGEOT"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR104</li>
+<li class="name">PEUGEOT Cross Bike</li>
+<li>made in France</li>
+<li>1970&prime;s</li>
+<li>SIZE 700C</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+<div class="p2">
+<!-- 写真16枚からこの<div>領域をつける -->
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/01.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/01.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/02.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/02.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/03.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/03.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/04.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/04.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/05.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/05.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/06.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/06.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/07.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/07.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/08.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/08.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/09.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/09.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/10.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/10.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/12.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/12.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/13.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/13.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/14.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/14.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/15.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/15.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/16.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/16.jpg" alt=""></a></li>
+<li><a href="equip/img/bicycle/fr105_bicycle_peugeot_helium/17.jpg" rel="shadowbox"><img src="equip/img/bicycle/fr105_bicycle_peugeot_helium/s/17.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR105</li>
+<li class="name">PEUGEOT HELIUM</li>
+<li>made in France</li>
+<li>1960&prime;s</li>
+<li>SIZE 26inch</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- end p2 -->
+</div><!-- .cap -->
+ 
+</div><!-- end contents-wrapper -->
+
+
+<div id="TOY"><a name="TOY"></a></div>                 
+<div class="midashi02"><h2>Toys</h2></div>
+<div class="contents-wrapper">
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/01.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/01.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/02.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/02.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/03.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/03.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/04.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/04.jpg" alt=""></a></li>
+<li><a href="https://www.youtube.com/embed/bJRY4ci6xMQ?rel=0&autoplay=1" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/05.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/06.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/06.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/07.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/07.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/08.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/08.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/09.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/09.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/10.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/10.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr096_RCporsche/11.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr096_RCporsche/s/11.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR096</li>
+<li class="name">RC PORSCHE CARRERA</li>
+<li>made in FRANCE</li>
+<li>Joustra社</li>
+<li>60年代</li>
+<li>Battery Operate(乾電池)</li>
+<li>SIZE L:270 W:115 H:80</li>
+<li class="kakaku">&yen;15,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/01.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/01.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/02.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/02.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/03.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/03.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/04.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/04.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/05.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/05.jpg" alt=""></a></li>
+<li><a href="https://www.youtube.com/embed/w1ayp1RYZlA?rel=0&autoplay=1" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/06.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/07.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/07.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/08.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/08.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/09.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/09.jpg" alt=""></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr095_bumpcar/10.jpg" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr095_bumpcar/s/10.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR095</li>
+<li class="name">BUMPER CAR</li>
+<li>made in JAPAN</li>
+<li>野村トーイ&middot;石塚製作所</li>
+<li>60年代</li>
+<li>Battery Operate(乾電池)</li>
+<li>SIZE L:190 W:110 H:80</li>
+<li class="kakaku">&yen;12,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/01.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/02.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/03.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/04.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/05.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/06.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/07.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/08.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/09.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr085_renault4cv/10.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr085_renault4cv/s/10.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR085</li>
+<li class="name">RENAULT 4CV </li>
+<li>made in FRANCE</li>
+<li>Jouets社</li>
+<li>with Certificate Card , Mint Condition!!</li>
+<li>Clock Work(ゼンマイ)</li>
+<li>SIZE L:175 W:75 H:75</li>
+<!-- <li class="kakaku">&yen;18,000-</li> -->
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/01.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/02.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/03.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/04.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/05.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/06.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/07.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/08.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr086_renault4cvPol/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr086_renault4cvPol/s/09.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR086</li>
+<li class="name">RENAULT 4CV Police</li>
+<li>made in FRANCE</li>
+<li>Jouets社</li>
+<li>Good Condition!!</li>
+<li>Friction Work(フリクション)</li>
+<li>SIZE L:175 W:75 H:75</li>
+<li class="kakaku">&yen;18,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/01.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/02.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/03.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/04.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/05.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/06.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/07.jpg"></a></li>
+<li><a href="toy/img/tintoy/vehicle/fr088_schuco_mbgp/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr088_schuco_mbgp/s/08.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR088</li>
+<li class="name">Mercedes Grand Prix 1936</li>
+<li>USA PATENT</li>
+<li>Schuco社</li>
+<li>Schuco SUTUDIO 1050</li>
+<li>Clock Work(ゼンマイ)</li>
+<li>SIZE L:135 W:85 H:60</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/09.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr005_mercedes/10.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr005_mercedes/s/10.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR005</li>
+                            <li class="name">MERCEDES</li>
+                            <li>made in FRANCE</li>
+                            <li>Joustra社</li>
+                            <li>SIZE L:205 W:95 H:75</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr006_recordBrakerBL/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr006_recordBrakerBL/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR006</li>
+                            <li class="name">Record BRAKER</li>
+                            <li>made in FRANCE</li>
+                            <li>トランクフードに「火の鳥」を意味するフランス語が印刷されています。</li>
+                            <li>SIZE L:265 W:105 H:65</li>
+                            <li class="kakaku">&yen;15,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr064_autoecole/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr064_autoecole/s/08.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR064</li>
+                            <li class="name">AUTO ECOLE</li>
+                            <li>made in GERMERNY</li>
+                            <li>BINDSCHEDLER IMPRIMETO社</li>
+                            <li>60年代中期頃、Auto Ecole(自動車教習所)</li>
+                            <li>SIZE L:335 W:125 H:85</li>
+                            <!-- <li class="kakaku">&yen;18,000-</li> -->
+                            <li class="kakaku">&yen;18,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr007_silverracer/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr007_silverracer/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR007</li>
+                            <li class="name">SILVER RACER</li>
+                            <li>made in FRANCE</li>
+                            <li>JOUETS社</li>
+                            <li>SIZE L:320 W:195 H:90</li>
+                            <li class="kakaku">&yen;30,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr023_tank_jyouets/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr023_tank_jyouets/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR023</li>
+                            <li class="name">French TANK</li>
+                            <li>made in FRANCE</li>
+                            <li>JOUETS社</li>
+                            <li>バッテリー(電池)駆動</li>
+                            <li>SIZE L:210 W:110 H:120</li>
+                            <!-- <li class="kakaku">&yen;9,500-</li> -->
+                            <li class="kakaku">&yen;9,500-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/01.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/02.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/03.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/04.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/05.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/06.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/07.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/08.jpg" /></a></li>
+                       	<li><a href="toy/img/tintoy/vehicle/fr059_citroenDS19/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr059_citroenDS19/s/09.jpg" /></a></li>
+                       	
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR059</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>made in FRANCE</li>
+                            <li>Joutra社</li>
+                            <li>60年代中期頃</li>
+                            <li>SIZE L:200 W:80 H:60</li>
+                            <!-- <li class="kakaku">&yen;15,000-</li> -->
+                            <li class="kakaku">&yen;15,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr065_policecar/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr065_policecar/s/08.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR065</li>
+                            <li class="name">POLICE Car</li>
+                            <li>made in GERMANY</li>
+                            <li>BINDSCHEDLER IMPRIMETO社</li>
+                            <li>60年代中期頃</li>
+                            <li>SIZE L:320 W:120 H:85</li>
+                            <!-- <li class="kakaku">&yen;18,000-</li> -->
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/09.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr073_citroenHyBP/10.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr073_citroenHyBP/s/10.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR073</li>
+                            <li class="name">CITRO&Euml;N Hy Advertise VAN BP</li>
+                            <li>made in FRANCE</li>
+                            <li>J.R.D社</li>
+                            <li>60年代中期頃</li>
+                            <li>SIZE L:345 W:165 H:175</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/09.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr074_citroenHyEsso/10.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr074_citroenHyEsso/s/10.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR074</li>
+                            <li class="name">CITRO&Euml;N Hy Advertise VAN ESSO</li>
+                            <li>made in FRANCE</li>
+                            <li>J.R.D社</li>
+                            <li>60年代中期頃</li>
+                            <li>SIZE L:345 W:165 H:175</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr075-1_citroenHyP/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr075-1_citroenHyP/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR075-1</li>
+                            <li class="name">CITRO&Euml;N Hy POLICE VAN</li>
+                            <li>made in FRANCE</li>
+                            <li>J.R.D社</li>
+                            <li>60年代中期頃</li>
+                            <li>Vattery Drive &#058; Remote Control</li>
+                            <li>SIZE L:345 W:165 H:180</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/08.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/09.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr076_bus_joustra/10.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr076_bus_joustra/s/10.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR076</li>
+                            <li class="name">TranceEurope BUS</li>
+                            <li>made in FRANCE</li>
+                            <li>Joustra社</li>
+                            <li>SIZE L:380 W:105 H:125</li>
+                            <li class="kakaku">&yen;23,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/01.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/02.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/03.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/04.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/05.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/06.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/07.jpg" /></a></li>
+                        <li><a href="toy/img/tintoy/vehicle/fr077_tank_joustra/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/vehicle/fr077_tank_joustra/s/08.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR077</li>
+                            <li class="name">French ARMY TANK</li>
+                            <li>made in FRANCE</li>
+                            <li>Joustra社</li>
+                            <li>SIZE L:195 W:100 H:115</li>
+                            <!-- <li class="kakaku">&yen;15,000-</li> -->
+                            <li class="kakaku">-ASK-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+</div><!-- .cap -->
+
+ <div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/01.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/02.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/03.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/04.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/05.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/06.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/07.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/08.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr054_USairforce/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr054_USairforce/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR054</li>
+                            <li class="name">US Air Force</li>
+                            <li>made in JAPAN</li>
+                            <li>米澤玩具</li>
+                            <li>Battery Operated(電池)、フランス仕様</li>
+                            <li>SIZE L:370 W:480 H:150</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+ <div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/01.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/01.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/02.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/02.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/03.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/03.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/04.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/04.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/05.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/05.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/06.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/06.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/07.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/07.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/08.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/08.jpg" /></a></li>
+                           <li><a href="toy/img/tintoy/airplane/fr062_Joustra/09.JPG" rel="shadowbox"><img src="toy/img/tintoy/airplane/fr062_Joustra/s/09.jpg" /></a></li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR062</li>
+                            <li class="name">Air Plane</li>
+                            <li>made in FRANCE</li>
+                            <li>Joustra 社</li>
+                            <li>SIZE L:300 W:360 H:110</li>
+                            <li class="kakaku">&yen;26,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+ </div><!-- .cap -->
+ 
+ 
+  <div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="toy/img/figure/chara/1062_super_man/01.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/01.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/02.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/02.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/03.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/03.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/04.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/04.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/05.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/05.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/06.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/06.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/07.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/07.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/08.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/08.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/09.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/09.jpg"></a></li>
+<li><a href="toy/img/figure/chara/1062_super_man/10.jpg" rel="shadowbox"><img src="toy/img/figure/chara/1062_super_man/s/10.jpg"></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.1062</li>
+<li class="name">SUPER MAN</li>
+<li>パリ、March&eacute; de Clignancourt(クリニャンクール蚤の市)にて購入した商品です。</li>
+<li></li>
+<li>SIZE H:770 W:290 D:140</li>
+<li class="kakaku">&yen;55,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div><!-- .cap -->
+
+</div><!-- end contents-wrapper -->
+
+<div id="PED"><a name="PED"></a></div>                 
+<div class="midashi02"><h2>Pedalcar</h2></div>
+<div class="contents-wrapper">
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr131_red/01.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/02.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/03.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/04.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/05.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/06.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/07.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr131_red/08.jpg" rel="shadowbox"><img src="pedal/img/fr131_red/s/08.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR131</li>
+<li class="name">Classic Car</li>
+<li>1950年代フランスのペダルカーです。</li>
+<li>made in France</li>
+<li>SIZE L:860 W:420 H:420</li>
+<li class="kakaku">&yen;45,000-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr129_ds19_red/01.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/02.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/03.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/04.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/05.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/06.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/07.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/08.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/09.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/10.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr129_ds19_red/11.jpg" rel="shadowbox"><img src="pedal/img/fr129_ds19_red/s/11.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR129</li>
+<li class="name">CITRO&Euml;N DS19</li>
+<li>1960年代の商品です。</li>
+<li>made in France</li>
+<li>SIZE L:1140 W:500 H:400</li>
+<li class="kakaku">&yen;150,000-</li>
+</ul>
+</div><!-- bx2 -->
+</div>
+
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr130_lotus/01.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/01.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/02.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/02.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/03.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/03.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/04.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/04.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/05.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/05.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/06.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/06.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/07.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/07.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/08.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/08.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/09.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/09.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/10.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/10.jpg" alt=""></a></li>
+<li><a href="pedal/img/fr130_lotus/11.jpg" rel="shadowbox"><img src="pedal/img/fr130_lotus/s/11.jpg" alt=""></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR130</li>
+<li class="name">LOTUS F1</li>
+<li>1960年代後期～1970年代前期の商品です。</li>
+<li>made in France</li>
+<li>SIZE L:1000 W:660 H:300</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div>
+<!-- bx2 -->
+</div><!-- .cap -->
+
+
+<div class="cap">
+                    <div class="bx1">
+                        <ul id="01" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/01.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/02.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/03.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/04.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/05.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/06.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/07.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/07.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr084_50s_fomula/08.JPG" rel="shadowbox"><img src="pedal/img/fr084_50s_fomula/s/08.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR084</li>
+                            <li class="name">1950s Fomula</li>
+                            <li>1950年代フランスの商品です。</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1320 W:530 H:530</li>
+                            <!-- <li class="kakaku">&yen;220,000-</li> -->
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="01" class="bxslider">
+<li><a href="pedal/img/fr27_lotus_red/01.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/01.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/02.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/02.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/03.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/03.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/04.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/04.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/05.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/05.JPG" /></a></li>
+<li><a href="pedal/img/fr27_lotus_red/07.JPG" rel="shadowbox"><img src="pedal/img/fr27_lotus_red/s/07.JPG" /></a>
+</li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR027</li>
+<li class="name">LOTUS FOMULA RED</li>
+<li>1960年代後期～1970年代前期の商品です。</li>
+<li>made in France</li>
+<li>SIZE L:1140 W:560 H:380</li>
+<li class="kakaku">-SOLD-</li>
+</ul>
+</div><!-- bx2 -->
+</div>
+
+
+<div class="cap">
+<div class="bx1">
+<ul id="02" class="bxslider">
+<li><a href="pedal/img/fr038_DS21_red/01.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/01.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/02.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/02.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/03.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/03.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/04.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/04.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/05.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/05.JPG" /></a></li>
+<li><a href="pedal/img/fr038_DS21_red/06.JPG" rel="shadowbox"><img src="pedal/img/fr038_DS21_red/s/06.JPG" /></a></li>
+</ul>
+</div><!-- bx1 -->
+<div class="bx2">
+<ul class="cap2">
+<li>No.FR038</li>
+<li class="name">CITRO&Euml;N DS21 RED</li>
+<li>日本にはほとんど輸入されていません。</li>
+<li>made in France</li>
+<li>SIZE L:1280 W:500 H:425</li>
+<li class="kakaku">&yen;180,000-</li>
+</ul>
+</div><!-- bx2 -->
+
+
+
+
+</div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="02" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/01.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/02.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/03.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/04.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/05.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr029_lotus_red_long/06.JPG" rel="shadowbox"><img src="pedal/img/fr029_lotus_red_long/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR029</li>
+                            <li class="name">LOTUS FOMULA RUST</li>
+                            <li>made in France</li>
+                            <li>SIZE L:980 W:650 H:370</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/01.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/02.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/03.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/04.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/05.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/06.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr040_DS19_white/07.JPG" rel="shadowbox"><img src="pedal/img/fr040_DS19_white/s/07.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR040</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>1950年代後期～1960年代前期の商品です。</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1190 W:500 H:435</li>
+                            <!-- <li class="kakaku">&yen;180,000-</li> -->
+                            <li class="kakaku">&yen;180,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="02" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/01.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/02.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/03.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/04.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr030_fomula_blue/05.JPG" rel="shadowbox"><img src="pedal/img/fr030_fomula_blue/s/05.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR030</li>
+                            <li class="name">FOMULA CAR F2</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1230 W:670 H:540</li>
+                            <li class="kakaku">&yen;140,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul id="02" class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/01.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/02.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/03.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/04.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr031_mg_red/05.JPG" rel="shadowbox"><img src="pedal/img/fr031_mg_red/s/05.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR031</li>
+                            <li class="name">MG FOMULA ORANGE</li>
+                            <li>made in France</li>
+                            <li>SIZE L:900 W:460 H:410</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/01.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/02.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/03.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/04.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/05.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr36_DS19_blue/06.JPG" rel="shadowbox"><img src="pedal/img/fr36_DS19_blue/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR036</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1280 W:500 H:425</li>
+                            <li class="kakaku">&yen;180,000-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/01.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/02.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/03.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/04.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/05.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/06.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/06.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/07.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/07.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/09.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/09.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr28_lotus_black/10.JPG" rel="shadowbox"><img src="pedal/img/fr28_lotus_black/s/10.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR028</li>
+                            <li class="name">LOTUS FOMULA BLACK</li>
+                            <li>made in France</li>
+                            <li>SIZE L:990 W:610 H:380</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/01.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/02.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/03.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/04.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/05.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr032_fomula_long/06.JPG" rel="shadowbox"><img src="pedal/img/fr032_fomula_long/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR032</li>
+                            <li class="name">FOMULA LONG</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1230 W:640 H:380</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/01.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/02.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/03.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/04.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/05.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr33_DFCharlieu/06.JPG" rel="shadowbox"><img src="pedal/img/fr33_DFCharlieu/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR033</li>
+                            <li class="name">DF Charlieu FOMULA</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1410 W:660 H:410</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/01.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/01.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/02.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/02.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/03.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/03.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/04.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/04.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/05.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/05.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/06.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/06.JPG"></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr34_Chaparral/07.JPG" rel="shadowbox"><img src="pedal/img/fr34_Chaparral/s/07.JPG"></a>
+                            </li>
+
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR034</li>
+                            <li class="name">CHAPARRAL</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1090 W:430 H:400</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/01.JPG" rel="shadowbox""><img src="pedal/img/fr035_DS19_fblue/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/02.JPG" rel="shadowbox""><img src="pedal/img/fr035_DS19_fblue/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/03.JPG" rel="shadowbox""><img src="pedal/img/fr035_DS19_fblue/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/04.JPG" rel="shadowbox""><img src="pedal/img/fr035_DS19_fblue/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/05.JPG" rel="shadowbox""><img src="pedal/img/fr035_DS19_fblue/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr035_DS19_fblue/06.JPG" rel="shadowbox""><img src="pedal/img/fr035_DS19_fblue/s/06.JPG" /></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR035</li>
+                            <li class="name">CITRO&Euml;N DS19</li>
+                            <li>made in France</li>
+                            <li>SIZE L:1190 W:490 H:470</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+                <div class="cap">
+                    <div class="bx1">
+                        <ul class="bxslider">
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/01.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/01.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/02.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/02.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/03.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/03.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/04.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/04.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/05.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/05.JPG" /></a>
+                            </li>
+                            <li>
+                                <a href="pedal/img/fr037_cart_type/06.JPG" rel="shadowbox""><img src="pedal/img/fr037_cart_type/s/06.JPG" /></a>
+                            </li>
+                    </div>
+                    <!-- bx1 -->
+                    <div class="bx2">
+                        <ul class="cap2">
+                            <li>No.FR037</li>
+                            <li class="name">CART TYPE</li>
+                            <li>made in France</li>
+                            <li>SIZE L:870 W:510 H:500</li>
+                            <li class="kakaku">-SOLD-</li>
+                        </ul>
+                    </div>
+                    <!-- bx2 -->
+                </div>
+
+</div><!-- end contents-wrapper -->
+
+
+</div><!-- #contents -->
+        
+</main>
+
+<footer id="footer">
+<!--#INCLUDE FILE="footer.html"-->
+</footer>
+           
+</body>
+
+</html>

@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="./css/rent.css" type="text/css">
+    <link type="text/css" href="./css/shadowbox.css" rel="stylesheet" media="all" />
+    <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+
+ <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>   
+    <script type="text/javascript" src="./js/menubar.js"></script>
+	
+<title>RENTAL(商品のレンタルはこちらから)</title>
+</head>
+
+<body>
+<header id="header">
+<a href="index.html"><img src="img/top/logo-kanji01.jpg" class="kanji"></a>
+
+<!-- ここから共通 -->
+<div id="navi">
+<ul class="drop">
+<li class="fr"><a href="french.shtml"><b>フランス時代</b></a></li>
+<li class="eq"><a href="equip.shtml"><b>Antique Equipment</b></a></li>
+<li class="au"><a href="auto.shtml"><b>Auto Mobiles &amp; Motos</b></a>
+<!-- 2ndlevel
+<ul>
+<li><a href="#">Stock Cars</a></li>
+<li><a href="#">Sold Cars</a></li>
+</ul>
+2nd level -->
+</li>
+<li class="to"><a href="toy.shtml"><b>Toys</b></a>
+<ul><!-- 2nd level -->
+<li><a href="toy.shtml">Tin Toys</a>
+<ul><!-- 3rd level -->
+<li><a href="toy.shtml#VEH">Vehicle</a></li>
+<li><a href="toy.shtml#ROB">Robot,Doll</a></li>
+<li><a href="toy.shtml#PLA">Air Plane</a></li>
+<li><a href="toy.shtml#MIS">Misc...etc</a></li>
+</ul><!-- 3rd level -->
+</li>
+<li><a href="toy.shtml#FIG">Figure,Character Doll</a></li>
+<li><a href="toy.shtml#CAS">Die-Cast Cars</a></li>
+</ul><!-- 2nd level -->
+</li>
+<li class="pe"><a href="pedal.shtml"><b>Pedalcar &amp; ElectricVehicle</b></a></li>
+<li class="co"><a href="about.html" target="_blank"><b>ContactUs</b></a></li>
+</ul><!-- .drop -->
+</div><!-- .navi -->
+<!-- ここまで -->
+
+</header>
+
+<main id="main">
+<h1 class="midashi01">RENTAL</h1>
+<div id="contents">
+<div class="contents-wrapper">
+<div class="detail">
+<ul>
+<li>"万国屋SHOW ROOM" にて販売する商品はすべてレンタル対象商品となります。</li>
+<li>従来より、TV、映画、雑誌、グラビア撮影の小道具、大道具として、芸能、出版業界の方々に幅広くご利用いただいています。</li>
+<li>レンタル料金に関しては、下記の "レンタル料金表" を参考にしてください。</li>
+<li>また、"万国屋 SHOW ROOM" では、時間単位の店内撮影もお受けいたします。</li>
+</ul>
+</div><!--  .detail  -->
+
+<div class="midashi02"><h2>RENTAL Price</h2></div>
+            
+
+<div class="l01-1">レンタル期間</div>
+<div class="l02-1">レンタル料金</div>
+<div class="l03-1">1日あたり</div>
+<div class="l04-1">1ヵ月あたり</div>
+
+
+<div class="l01">1日</div>
+<div class="l02">上代合計金額 x 10%</div>
+<div class="l03">10%</div>
+<div class="l04">-</div>
+
+
+<div class="l01">2日</div>
+<div class="l02">上代合計金額 x 15%</div>
+<div class="l03">7.5%</div>
+<div class="l04">-</div>
+
+
+<div class="l01">3日</div>
+<div class="l02">上代合計金額 x 20%</div>
+<div class="l03">6.7%</div>
+<div class="l04">-</div>
+
+
+<div class="l01">4日～7日</div>
+<div class="l02">上代合計金額 x 25%</div>
+<div class="l03">3.6%</div>
+<div class="l04">-</div>
+
+
+<div class="l01">8日～14日</div>
+<div class="l02">上代合計金額 x 30%</div>
+<div class="l03">2.1%</div>
+<div class="l04">-</div>
+
+
+<div class="l01">15日～21日</div>
+<div class="l02">上代合計金額 x 35%</div>
+<div class="l03">1.6%</div>
+<div class="l04">-</div>
+
+
+<div class="l01">22日～1ヵ月</div>
+<div class="l02">上代合計金額 x 40%</div>
+<div class="l03">1.3%</div>
+<div class="l04">40%</div>
+
+
+<div class="l01">2ヶ月</div>
+<div class="l02">上代合計金額 x 44%</div>
+<div class="l03">0.7%</div>
+<div class="l04">22%</div>
+
+
+<div class="l01">3ヶ月</div>
+<div class="l02">上代合計金額 x 48%</div>
+<div class="l03">0.5%</div>
+<div class="l04">16%</div>
+
+
+<div class="l01">4ヶ月</div>
+<div class="l02">上代合計金額 x 52%</div>
+<div class="l03">0.4%</div>
+<div class="l04">13%</div>
+
+
+<div class="l01">5ヶ月</div>
+<div class="l02">上代合計金額 x 56%</div>
+<div class="l03">0.37%</div>
+<div class="l04">11.2%</div>
+
+
+<div class="l01">6ヶ月</div>
+<div class="l02">上代合計金額 x 60%</div>
+<div class="l03">0.33%</div>
+<div class="l04">10%</div>
+
+
+<div class="l01">7ヶ月</div>
+<div class="l02">上代合計金額 x 63%</div>
+<div class="l03">0.3%</div>
+<div class="l04">9%</div>
+
+
+<div class="l01">8ヶ月</div>
+<div class="l02">上代合計金額 x 66%</div>
+<div class="l03">0.37%</div>
+<div class="l04">8.3%</div>
+
+
+<div class="l01">9ヶ月</div>
+<div class="l02">上代合計金額 x 69%</div>
+<div class="l03">0.25%</div>
+<div class="l04">7.7%</div>
+
+
+<div class="l01">10ヶ月</div>
+<div class="l02">上代合計金額 x 72%</div>
+<div class="l03">0.24%</div>
+<div class="l04">7.2%</div>
+
+
+<div class="l01">11ヶ月</div>
+<div class="l02">上代合計金額 x 75%</div>
+<div class="l03">0.22%</div>
+<div class="l04">6.8%</div>
+
+
+<div class="l01">1年</div>
+<div class="l02">上代合計金額 x 78%</div>
+<div class="l03">0.21%</div>
+<div class="l04">6.5%</div>            
+
+<div id="clear"></div>  
+
+<div id="ex">
+<ul class="ex01">
+<li>（例）</li>
+<li>レンタル対象商品 上代合計額 ：　&yen;350,000-</li>
+<li>レンタル日数 ：　３日間(20%)</li>
+<li>レンタル料金 ：　&yen;350,000 x 20% =&yen;70,000 + TAX</li>
+</ul>
+
+<ul class="ex02">
+<li>最低レンタル料金　&yen;10,000-(税別)</li>
+<li>&quot;上代合計金額 x パーセンテージ&quot; が &yen;10,000-に満たない場合
+は、最低料金として&yen;10,800-(税込)を頂くかたちになります。</li>
+<li>お支払いは、原則として現金前払いでお願いいたします。</li>
+<li>レンタルのご予定が決まった時点でご来店いただき、契約書作成およびレンタル代金のお支払いを、お願いいたします。</li>
+<li>レンタルのご予約は最低７日前には、ご連絡いただけますようお願いいたします。</li>
+<li>ご都合により決定のご連絡が遅れる場合は事前にご連絡ください。</li>
+<li>運搬費用および保険料は、別途となります。</li>
+<li>１日は、２４時間計算となります。(1泊2日は24時間計算です。)</li>
+</ul>
+</div><!-- end #ex -->              
+
+
+</div> <!--".contents-wrapper  -->
+
+</div><!-- #contents -->
+<!-- <a href="mailto:bky@bankokuya.co.jp?subject=%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab%e3%81%ae%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e3%81%a7%e3%81%99%e3%80%82" target="_blank" class="mbutton"> -->
+<div class="button">
+<a href="https://form.run/@bankokuya" target="_blank">
+お問い合わせは、こちらからどうぞ。
+</a>
+</div>
+        
+        
+        
+
+</main>
+<footer id="footer">
+<!--#INCLUDE FILE="footer.html"-->
+</footer>           
+</body>
+</html>

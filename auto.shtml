@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="./css/auto.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="./js/menubar.js"></script>
+	
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-101158368-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	
+	<title>AutoMobiles & Motos(アンティークカー、アンティークスクーター、アンティークオートバイ)</title>
+</head>
+<body>
+   <header id="header">
+<a href="index.html"><img src="img/top/logo-kanji01.jpg" class="kanji"></a>
+
+<!-- ここから共通 -->
+<div id="navi">
+<ul class="drop">
+<li class="fr"><a href="french.shtml"><b>フランス時代</b></a></li>
+<li class="eq"><a href=equip.shtml><b>Antique Equipment</b></a></li>
+<li class="au"><a href="#"><b>Auto Mobiles &amp; Motos</b></a>
+<!-- 2ndlevel
+<ul>
+<li><a href="#">Stock Cars</a></li>
+<li><a href="#">Sold Cars</a></li>
+</ul>
+2nd level -->
+</li>
+<li class="to"><a href="toy.shtml"><b>Toys</b></a>
+<ul><!-- 2nd level -->
+<li><a href="toy.shtml">Tin Toys</a>
+<ul><!-- 3rd level -->
+<li><a href="toy.shtml#VEH">Vehicle</a></li>
+<li><a href="toy.shtml#ROB">Robot,Doll</a></li>
+<li><a href="toy.shtml#PLA">Air Plane</a></li>
+<li><a href="toy.shtml#MIS">Misc...etc</a></li>
+</ul><!-- 3rd level -->
+</li>
+<li><a href="toy.shtml#FIG">Figure,Character Doll</a></li>
+<li><a href="toy.shtml#CAS">Die-Cast Cars</a></li>
+</ul><!-- 2nd level -->
+</li>
+<li class="pe"><a href="pedal.shtml"><b>Pedalcar &amp; ElectricVehicle</b></a></li>
+<li class="co"><a href="about.html" target="_blank"><b>ContactUs</b></a></li>
+</ul><!-- .drop -->
+</div><!-- .navi -->
+<!-- ここまで -->
+</header>
+ 
+<main id="main">
+<h1 class="midashi01">Auto Mobiles &amp; Motos...etc</h1>
+
+<div id="contents">
+
+<div class="contents-wrapper 27">
+<a href="auto/fmc169_57lambrettaLD.shtml" target="_parent"><img src="auto/img/fmc169_57lambrettaLD/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1957 INNOCENTI LAMBRETTA LD 125cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、マルセイユ近郊より買い付けてきました。</li>
+<li>&nbsp;</li>
+<li>オリジナルペイント、純正リアキャリア、スペアタイヤ、レアパーツのホーンカバー付き</li>
+<li>&nbsp;</li>
+<li>近年、イタリア、フランスでも見かけることの少なくなった希少車両です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ、販売証明(譲渡書)</li>
+</ul>
+<div class="kakaku"><b>&yen;680,000-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 22">
+<a href="auto/fmc165_55motobecane.shtml" target="_parent"><img src="auto/img/fmc165_55motobecane/30.jpg" alt=""></a>
+<div class="detail">
+<h3>1955 MOTOBECANE MOBY Scooter 125cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、マルセイユ近郊より直接買い付け車両です。</li>
+<li>&nbsp;</li>
+<li>随所にフランス人のエスプリと合理性を垣間見ることのできるスクーターです。</li>
+<li>&nbsp;</li>
+<li>とても50年以上前に製造されたとは思えない、乗りやすい、可愛いスクーターです。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>&yen;500,000-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 29">
+<a href="auto/am796_84_2cv.shtml" target="_parent"><img src="auto/img/am796_84_2cv/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1984 CITRO&Euml;N 2CV6 Charleston</h3>
+<ul class="detail-ul">
+<li>落ち着いたサンドベージュにリペイントされた綺麗な車両です。</li>
+<li>&nbsp;</li>
+<li>内外装、機関ともに上々のディーラー車です。</li>
+<li>&nbsp;</li>
+<li>車検：平成31年6月</li>
+
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 28">
+<a href="auto/fam795_citroen_h.shtml" target="_parent"><img src="auto/img/fam795_citroen_h/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1971 CITRO&Euml;N HY Dump Truck</h3>
+<ul class="detail-ul">
+<li>フランス南西部、ボルドー近郊より買い付けてきました。</li>
+<li>&nbsp;</li>
+<li>現地では、とある シャトー で葡萄の収穫に使われていたそうです。</li>
+<li>&nbsp;</li>
+<li>近年、フランスでも見かけることの少なくなった希少車両です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ、販売証明(譲渡書)</li>
+
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 26">
+<a href="auto/fmc167_81peugeot_105r.shtml" target="_parent"><img src="auto/img/fmc167_81peugeot_105r/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1981 PEUGEOT 105R 50cc</h3>
+<ul class="detail-ul">
+<li>ヨーロッパの街の脚 Moped です。 </li>
+<li>&nbsp;</li>
+<li>ペダルはエンジン始動用のキックアーム代わりです。</li>
+<li>&nbsp;</li>
+<li>フランス南部、マルセイユ近郊より買い付けてきました。。。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、販売証明(譲渡書)</li>
+
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 25">
+<a href="auto/fmc168_58acma_faro.shtml" target="_parent"><img src="auto/img/fmc168_58acma_faro/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1958 ACMA VESPA Faro Basso 125cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、カンヌ近郊より買い付けました。</li>
+<li>&nbsp;</li>
+<li>オリジナルペイントのボディーは非常にしっかりしています。</li>
+<li>&nbsp;</li>
+<li>日本では通称&quot;フェンダーライト&quot;と呼ばれますが、ヨーロッパでは、&quot;Faro Basso&quot;が通り名です。イタリア語で Faro=ライト,Basso=下 と言う意味です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li>&nbsp;</li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 24">
+<a href="auto/fmc164_1955acma_vespa.shtml" target="_parent"><img src="auto/img/fmc164_1955acma_vespa/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1955 ACMA VESPA 125cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、カンヌ近郊より買い付けました。</li>
+<li>&nbsp;</li>
+<li>ボディーは非常にしっかりしており、光の加減でネイビーにも見える淡いメタリックグリーンの落ち着いた色にリペイントされています。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 23">
+<a href="auto/fmc163_65_lambretta_LI.shtml" target="_parent"><img src="auto/img/fmc163_65_lambretta_LI/03.jpg" alt=""></a>
+<div class="detail">
+<h3>1965 INNOCENTI LAMBRETTA LI 125cc</h3>
+<ul class="detail-ul">
+<li>イギリスでレストアされフランス南部に渡った車両です、フランス南部、カンヌ近郊より買い付けました。</li>
+<li>&nbsp;</li>
+<li>ボディーは非常にしっかりしており、錆は見受けられません。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 21">
+<a href="auto/fmc162_56_acma_vespa.shtml" target="_parent"><img src="auto/img/fmc162_56_acma_vespa/03.jpg" alt=""></a>
+<div class="detail">
+<h3>1956 ACMA VESPA 125cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、ニース近郊より直接買い付け車両です。</li>
+<li>&nbsp;</li>
+<li>しっかりしたボディーの綺麗な車両です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 20">
+<a href="auto/fmc160_67vespa_l_50.shtml" target="_parent"><img src="auto/img/fmc160_67vespa_l_50/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1967 PIAGGIO VESPA Type L V5A1T 50cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、カンヌ近郊より直接買い付け車両です。</li>
+<li>&nbsp;</li>
+<li>タイトボディ、お尻がちょっぴり長い可愛いビンテージベスパです。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 19">
+<a href="auto/fmc161_53lambretta_LD.shtml" target="_parent"><img src="auto/img/fmc161_53lambretta_LD/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1953 INNOCENTI LAMBRETTA LD 125cc</h3>
+<ul class="detail-ul">
+<li>若干マットな塗装が施された通好みの車両です。</li>
+<li>&nbsp;</li>
+<li>当時のオプションスピードメーター、アルミダイキャストメーターカバー、ラムエアーデコレーションが付属します。</li>
+<li>&nbsp;</li>
+<li>フランス南部、カンヌ近郊より買い付けてきました。。。</li>
+<li>&nbsp;</li>
+<li>近年、イタリア、フランスでも見かけることの少なくなった希少車両です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ、販売証明(譲渡書)</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 18">
+<a href="auto/fam789_1967_2cv_ak.shtml" target="_parent"><img src="auto/img/fam789_1967_2cv_ak/01.jpg" alt=""></a>
+<div class="detail">
+<h3>1967 CITRO&Euml;N 2CV AK(Fourgonnette)</h3>
+<ul class="detail-ul">
+<li>フルゴネットといえば CITRO&Euml;N の AK AKB!</li>
+<li>&nbsp;</li>
+<li>フランス南部、修理工のおじいちゃんが大切に使っていた車です。。</li>
+<li>&nbsp;</li>
+<li>エンジン、電装系共に好調です。</li>
+<li>&nbsp;</li>
+<li>通関書渡し車両</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 17">
+<a href="auto/fmc156_1956_lambretta_LD_125.shtml" target="_parent"><img src="auto/img/fmc156_1956_lambretta_LD_125/01.jpg" alt="1956 LAMBRETTA LD 125cc"></a>
+<div class="detail">
+<h3>1956 LAMBRETTA LD 125cc</h3>
+<ul class="detail-ul">
+<li>デザインがすばらしいスマートな車両です。</li>
+<li>&nbsp;</li>
+<li>レアパーツ、アルミダイキャスト製のラムエアーエンジンガード、ウイングデコレーション(Le ali dell'angelo)が付属します。</li>
+<li>&nbsp;</li>
+<li>センタースタンドは破損のため現在本国より取り寄せ中です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ、販売証明(譲渡書)</li>
+<li></li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 16">
+<a href="auto/fmc154_1954peugeot_s57c.shtml" target="_parent"><img src="auto/img/fmc154_1954peugeot_s57c/01.jpg" alt="1954 PEUGEOT S57C 125cc"></a>
+<div class="detail">
+<h3>1954 PEUGEOT S57C 125cc</h3>
+<ul class="detail-ul">
+<li>一度レストアされた後、大切に使用され、少しヤレ感の出てきたすばらしい車両です。</li>
+<li>&nbsp;</li>
+<li>フランスの合理性とエスプリを垣間見た気にさせてくれます。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ、販売証明(譲渡書)</li>
+<li></li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 15">
+<a href="auto/fam783_1970_2cvakb.shtml"><img src="auto/img/fam783_1970_2cvakb/01.jpg" alt="CITROEN 2CV AKB"></a>
+<div class="detail">
+<h3>1970 CITRO&Euml;N 2CV AKB(Fourgonnette)</h3>
+<ul class="detail-ul">
+<li>フルゴネットといえば CITRO&Euml;N の AK AKB!</li>
+<li>&nbsp;</li>
+<li>実物大の&prime;チョロQ&prime;のような可愛い車です。</li>
+<li>&nbsp;</li>
+<li>通関書渡し車両</li>
+<li></li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 14">
+<a href="auto/fmc155_1966piaggio_vespa_vbb2t_150.shtml"><img src="auto/img/fmc155_1966piaggio_vespa_vbb2t_150/01.jpg" alt="1966 PIAGGIO VESPA VBB2T 150"></a>
+<div class="detail">
+<h3>1966 PIAGGIO VESPA VBB2T 150cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、カンヌ近郊より直接買い付け車両です。</li>
+<li>&nbsp;</li>
+<li>純正色の &Prime;ソーダブルー&Prime; にリペイントされ、ボディー、機関ともにフルレストアされた極上車両です。</li>
+<li>&nbsp;</li>
+<li>新車同様と言う言葉がシックリくる大変綺麗な車両です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 13">
+<a href="auto/fam782_1958_2cv_az.shtml" target="_parent"><img src="auto/img/fam782_1958_2cv_az/01.jpg" alt="1958 2CV AZ"></a>
+<div class="detail">
+<h3>1958 CITRO&Euml;N 2CV AZ</h3>
+<ul class="detail-ul">
+<li>フランス南部マルセイユ近郊より直接買い付け。</li>
+<li>&nbsp;</li>
+<li>センターヒンジドア</li>
+<li>&nbsp;</li>
+<li>3スピードミッション</li>
+<li>&nbsp;</li>
+<li>6V 電装</li>
+<li>&nbsp;</li>
+<li>ハンドタイプ ワイパー(スピードメーターより回転取得)</li>
+<li>&nbsp;</li>
+<li>オリジナルクランクハンドル付き、実際に手動でエンジン始動可能です。</li>
+<li>&nbsp;</li>
+<li>通関書渡し車両</li>
+</ul>
+<div class="kakaku"><b>&yen;-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+<div class="contents-wrapper 13">
+<a href="auto/fmc157_1969_peugiot_102mr.shtml" target="_parent"><img src="auto/img/fmc157_1969_peugiot_102mr/01.jpg" alt="1969 PEUGIOT 102ME 50cc"></a>
+<div class="detail">
+<h3>1969 PEUGEOT 102MR 50cc(moped)</h3>
+<ul class="detail-ul">
+<li>フランス南部、マルセイユ近郊より直接買い付け車両です。</li>
+<li>&nbsp;</li>
+<li>小径車マニア、小粋なモペッドファンに！</li>
+<li>&nbsp;</li>
+<li>ボディー、機関とも特に問題のない車両です。。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 12">
+<a href="auto/fmc158_54acma_vespa_n_150.shtml" target="_parent"><img src="auto/img/fmc158_54acma_vespa_n_150/01.jpg" alt="1954 ACMA VESPA TypeN 150cc"></a>
+<div class="detail">
+<h3>1957 ACMA VESPA TypeN 150cc</h3>
+<ul class="detail-ul">
+<li>フランス南部、カンヌ近郊より直接買い付け車両です。</li>
+<li>&nbsp;</li>
+<li>ボディー、機関ともよい状態です。</li>
+<li>&nbsp;</li>
+<li>書類は、通関書、ピンクスリップ(現地登録書)、販売証明(譲渡書)</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+<div class="contents-wrapper 11">
+<a href="auto/am781_2004cube.shtml" target="_parent"><img src="auto/img/am781_2004cube/01.jpg" alt="2004 CUBE Pickup"></a>
+<div class="detail">
+<h3>2004 NISSAN CUBE PickUp</h3>
+<ul class="detail-ul">
+<li>可愛い CUBE のピックアップです、</li>
+<li>&nbsp;</li>
+<li>コレクションとして大切に扱われてきた車両らしく、内外装共に非常に綺麗で走行極少です。</li>
+<li>&nbsp;</li>
+<li>走行 41,800km</li>
+<li>&nbsp;</li>
+<li>車検 29年11月</li>
+<li></li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 10">
+<a href="auto/mc151_geely_fenderlight.shtml" target="_parent"><img src="auto/img/mc151_geely_fenderlight/002.jpg" alt="GEELY FenderLight"></a>
+<div class="detail">
+<h3>GEELY FenderLight 50cc Fashion Scooter</h3>
+<ul class="detail-ul">
+<li>50年代　VESPA フェンダーライト風ファッションスクーターです。</li>
+<li>&nbsp;</li>
+<li>3連メーターを取り外し、miniウィンカー装着、よりシンプルに仕上げてます。</li>
+<li>&nbsp;</li>
+<li>オリジナルの蝶番を改造することなくヴィンテージシングルシートを取り付けてみました。</li>
+<li>&nbsp;</li>
+<li>オリジナルシートに戻すにはボルト3本のポン付けで OK です。</li>
+<li>&nbsp;</li>
+<li>セル付き、4cycle、50cc、楽々</li>
+<li>&nbsp;</li>
+<li>新古車</li>
+<li>&nbsp;</li>
+<li>走行 1.2km</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 09">
+<a href="auto/am772_2000smart_brabus.shtml" target="_parent"><img src="auto/img/am772_2000smart_brabus/001.jpg" alt="2000 MCC SMART BRABUS"></a>
+<div class="detail">
+<h3>2000 MCC SMART BRABUS 600cc</h3>
+<ul class="detail-ul">
+<li>ヨーロッパ、特にフランスでは非常に人気のある車です。</li>
+<li>&nbsp;</li>
+<li>希少な600cc</li>
+<li>&nbsp;</li>
+<li>オートマティックモード &amp; セミオートマティックモード、シフトパッド付き</li>
+<li>&nbsp;</li>
+<li>一時抹消車</li>
+<li>&nbsp;</li>
+<li>走行 30,300km</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 08">
+<a href="auto/mc150_1969_littleHONDpc50.shtml" target="_parent"><img src="auto/img/mc150_1969_littleHONDpc50/01.JPG" alt="1969 HONDA PC50 little HONDA"></a>
+<div class="detail">
+<h3>1969 HONDA PC50 Little HONDA</h3>
+<ul class="detail-ul">
+<li>1969年発売、女性にも簡単に乗れるようヨーロッパで主流のモペッドを意識したペダル付き。</li>
+<li>&nbsp;</li>
+<li>マフラー、純正ホワイトグリップゴム、他新品パーツ多数交換</li>
+<li>&nbsp;</li>
+<li>ハンドル廻りパーツ、リヤランプベース(リヤウインカーステー)など新品パーツ入手困難なパーツは再メッキ</li>
+<li>&nbsp;</li>
+<li>塗装は販売台数の少ないライトブルー(オリジナル)</li>
+<li>&nbsp;</li>
+<li>新品パーツ交換箇所以外はほぼオリジナルを保った綺麗な車両です。</li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+<li> </li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- end.detail -->
+</div><!-- end.contents-wrapper  -->
+
+
+<div class="contents-wrapper 07">
+<a href="auto/1989_2cv_france3_rep.shtml"><img src="auto/img/1989_2cv_france3_rep/001.JPG" alt="1989 CITROEN 2CV France3 Rep"></a>
+<div class="detail">
+<h3>1989 CITRO&Euml;N 2CV France 3 Rep</h3>
+<ul class="detail-ul">
+<li>France3 特色ホワイトへオールペイント</li>
+<li>&nbsp;</li>
+<li>Frnce3 シート、France3 キャンバストップ</li>
+<li>&nbsp;</li>
+<li>France3 メッキホイールキャップ</li>
+<li>&nbsp;</li>
+<li>エアコン用コンプレッサー、コンデンサー装着済み</li>
+<li>&nbsp;</li>
+<li>一時抹消車両</li>
+<li></li>
+</ul>
+<div class="kakaku"><b><!-- &yen;1,500,000- -->-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+
+<div class="contents-wrapper 06">
+<a href="auto/fam775_1961_2CV_AZ.shtml" target="_parent"><img src="auto/img/fam775_1961_2CV_AZ/01.JPG" alt="1961 CITROEN 2CV"></a>
+<div class="detail">
+<h3>1961 CITRO&Euml;N 2CV</h3>
+<ul class="detail-ul">
+<li>フランス南部マルセイユ近郊より直接買い付け。</li>
+<li>&nbsp;</li>
+<li>センターヒンジドア</li>
+<li>&nbsp;</li>
+<li>3スピードミッション</li>
+<li>&nbsp;</li>
+<li>6V 電装</li>
+<li>&nbsp;</li>
+<li>ハンドタイプ ワイパー(スピードメーターより回転取得)</li>
+<li>&nbsp;</li>
+<li>通関書渡し車両</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+
+
+<div class="contents-wrapper 05">
+<a href="auto/fmc149_1953_acma-vespa_125.shtml" target="_parent"><img src="auto/img/fmc149_1953_acma-vespa_125/001.JPG" alt="1953 ACMA VESPA 125cc"></a>
+<div class="detail">
+<h3>1953 ACMA VESPA 125cc (made in France)</h3>
+<ul class="detail-ul">
+<li>フランス南部マルセイユ近郊より直接買い付け。</li>
+<li>&nbsp;</li>
+<li>本家Piaggio の同年modelはフェンダーライトです、53年ACMA VESPA は、フェンダーライトと同ボディーでありながらスワンネックである希少車です。 </li>
+<li>&nbsp;</li>
+<li>6V 電装</li>
+<li>&nbsp;</li>
+<li>フロアースキッドモール、アルミベースは新品パーツが付属</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+
+<div class="contents-wrapper 04">
+<a href="auto/fmc145_1954_motobecane_moby_125.shtml" target="_parent"><img src="auto/img/fmc145_1954_motobecane_moby_125/01.JPG" alt="1954 MOTOBECANE MOBY Scooter 125cc"></a>
+<div class="detail">
+<h3>1954 MOTOBECANE MOBY Scooter 125cc (made in France)</h3>
+<ul class="detail-ul">
+<li>フランス南部マルセイユ近郊より直接買い付け。</li>
+<li>&nbsp;</li>
+<li>現地フランスでも現存数の少ない希少車です。</li>
+<li>&nbsp;</li>
+<li>前後サスペンションは、英車MINI にも採用されたラバー製、アブソーバーを使わずシンプルな機構の設計は、フランス人の合理性を垣間見た気がします。</li>
+<li>&nbsp;</li>
+<li>ハンドチェンジ3スピードミッション</li>
+<li>&nbsp;</li>
+<li>6V 電装</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+
+<div class="contents-wrapper 03">
+<a href="auto/fmc146_1956_acma_vespa_125.shtml" target="_parent"><img src="auto/img/fmc146_1956_acma_vespa_125/017.JPG" alt="1956 ACMA vespa 125"></a>
+<div class="detail">
+<h3>1956 ACMA VESPA 125cc (made in France)</h3>
+<ul class="detail-ul">
+<li>フランス南部マルセイユ近郊より直接買い付け。</li>
+<li>&nbsp;</li>
+<li>スワンネック</li>
+<li>&nbsp;</li>
+<li>フロント、リヤバンパー、スペアタイヤ</li>
+<li>&nbsp;</li>
+<li>フェンダーマスコット、ピリオンバー</li>
+<li>&nbsp;</li>
+<li>レッグシールドバンパー、ダブルサドルシート</li>
+<li>&nbsp;</li>
+<li>メッキエンジンフードデコレーション</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+
+<div class="contents-wrapper 02">
+<a href="auto/fam_770_1962_2CV_AZ.shtml" target="_parent"><img src="auto/img/fam_770_1962_2CV_AZ/01.JPG" alt="2CV"></a>
+<div class="detail">
+<h3>1962 CITRO&Euml;N 2CV (centrifugal clutch)</h3>
+<ul class="detail-ul">
+<li>フランス南部マルセイユ近郊より直接買い付け。</li>
+<li>&nbsp;</li>
+<li>センターヒンジドア</li>
+<li>&nbsp;</li>
+<li>セミオートマチック 3スピードミッション</li>
+<li>&nbsp;</li>
+<li>6V 電装</li>
+<li>&nbsp;</li>
+<li>モータータイプ ワイパー</li>
+<li>&nbsp;</li>
+<li>予備検査付き車両</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+
+<div class="contents-wrapper 01">
+<a href="auto/am767_isekiTB17.shtml" target="_parent"><img src="auto/img/am767isekiTB17/01.jpg" border="0" alt="01.jpg(262547 byte)" width="640" height="480"></a>
+<div class="detail">
+<h3>1965 ヰセキ TB-17 PORSCHE design</h3>
+<ul class="detail-ul">
+<li>「ヰセキ農機は独ポルシェ社と1962年に販売代理契約、1963年に技術提携を結び名機の
+TBは1965年頃にライセンス生産され発売されました。
+</li>
+<li>1966年には提携解消となり1970年には後継機種であるTSシリーズシフトされたため、
+ライセンス生産された PORSCHE DESIGN の車両はごく僅か。</li>
+<li>TB17は川崎航空機製の2気筒空冷ディーゼルエンジン（822cc 16.5ps）を搭載。</li>
+<br>
+<li>ドイツ シュツットガルトにある PORSCHE MUSEUM には、同型の
+1955年製 PORSCHE Schlepper Standard 218 が展示されている。」</li>
+<br>
+<li>「小型特殊」登録ナンバー取得済車両です。</li>
+</ul>
+<div class="kakaku"><b>-SOLD-</b></div>
+</div><!-- #detail -->
+</div><!-- #"contents-wrapper  -->
+
+</div><!-- #contents -->
+
+ </main>
+
+ <footer id="footer">
+<!--#INCLUDE FILE="footer.html"-->
+ </footer>
+
+</body>
+</html>
