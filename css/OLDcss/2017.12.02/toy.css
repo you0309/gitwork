@@ -1,0 +1,719 @@
+html{
+background: #7E7E7E;
+}
+
+/*---------------------Loading用------------------------*/
+#loader-bg {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background: #000000;
+  opacity: 0.85;
+  z-index: 5000;
+}
+#loader {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 200px;
+  margin-top: -100px;
+  margin-left: -100px;
+  text-align: center;
+  color: #6E6E6E;
+  font-weight: bold;
+  z-index: 5001;
+}
+
+#loader img{
+border-style:none;
+}
+
+/*--------------------------Loading用ココまで-----------------------*/
+
+body {
+    position: relative;
+    border: 0;
+    width: 1240px;
+    /*margin: 5px auto 0 auto;*/
+    margin: 0 auto;
+    padding: 0px;
+    font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+    font-size: 11pt;
+    background: #ffffff;
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+outline: none;
+}
+
+
+#header {
+    width: 1240px;
+    height: auto;
+    padding-top: 10px;
+}
+
+#header img.kanji {
+    display: block;
+    margin:15px auto 10px auto;
+    max-height: 65px;
+}
+
+
+/*ここから共通Navi*/
+
+#navi.fixed {
+    width: 1240px;
+    display: block;
+    height: 32px;
+    opacity: 0.9;
+    position: fixed;
+    top: 2px;
+    z-index: 3001;
+    margin-bottom: 0;
+}
+
+	.drop {
+    width: 100%;
+    height: 32px;
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+    list-style: none;
+}
+
+
+
+
+.drop li {
+position: relative;
+float: left;
+margin: 0;
+padding: 0;
+text-align: center;
+border-right: 1px solid #F5F5F5;    
+}
+
+.drop li.eq{
+width: 22%;
+}
+
+.drop li.au{
+width: 24%;
+}
+
+.drop li.to{
+width: 10%;
+}
+
+.drop li.pe{
+width: 28%;
+}
+
+.drop li.co{
+width: 15.64%;
+border-right: none;
+}
+
+
+
+
+.drop li a {
+display: block;
+margin: 0;
+padding: 5px;
+color: #000;
+display: block;
+font-size: 18px;
+text-decoration: none;
+}
+
+.drop li:hover > a {
+    background: #F5F5F5;
+}
+
+.drop li ul{
+width: 100%;
+list-style: none;
+position: absolute;
+top: 100%;
+left: 0;
+padding: 0;
+z-index: 3001;
+}
+
+.drop li.to ul{/*横幅を親メニューより長くする*/
+width: 180%;
+list-style: none;
+position: absolute;
+top: 100%;
+left: 0;
+padding: 0;
+font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+}
+
+
+
+.drop li ul li{
+overflow: hidden;
+width: 100%;
+height: 0;
+-moz-transition: .08s;
+-webkit-transition: .08s;
+-ms-transition: .08s;
+transition: .08s;
+}
+
+.drop li ul li a{
+display: block;
+padding: 5px 0;
+background: #ccc;
+text-align: center;
+font-size: 18px;
+text-decoration: none;
+}
+
+
+.drop li:hover ul li{
+overflow: visible;
+height: 32px;
+border-top: 1px solid #ffffff;
+}
+
+.drop li:hover ul li:first-child{
+border-top: 0;
+}
+
+/*-------------------------------------------navi 3rd evel-------------------------------------------*/
+.drop li.to ul li ul{/*横幅を2ndlevelの7割にするす*/
+width: 70%;
+list-style: none;
+position: absolute;
+z-index: 3001;
+top: 15px;
+left: 100.4%;
+padding: 0;
+border: none;
+}
+
+.drop li.to ul li ul li{
+overflow: hidden;
+width: 100%;
+height: 0;
+-moz-transition: .1s;
+-webkit-transition: .1s;
+-ms-transition: .1s;
+transition: .1s;
+}
+
+.drop li.to ul li ul li a{
+padding: 5px 0;
+background: #ccc;
+text-align: center;
+font-size: 14px;
+font-weight: bold;
+font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+text-decoration: none;
+}
+
+.drop li:hover ul li ul li{
+overflow: hidden;
+height: 0;
+border-top: 0;
+}
+
+.drop li ul li:hover ul li{
+overflow: visible;
+height: 27px;
+border: solid 1px #fff;
+background: #ccc;
+}
+
+.drop li ul li:hover ul li:second-child{
+border-top: 0;
+border-bottom: 0;
+}
+
+.drop li ul li ul li:hover > a{
+background: #F5F5F5;
+}
+
+/*-------------------------------------------navi 3rd evel ここまで--------------------------------*/
+
+/*共通Navi ここまで*/
+
+.fixed {
+    position: fixed;
+    top: 1px;
+    z-index: 3000;
+}
+
+
+/*.clear{
+clear: both;
+}
+*/
+
+#main {
+    width: 1240px;
+    margin-bottom: 10px;
+   /* margin-top: -5px;*/
+    padding: 0;
+}
+
+#footer {
+    clear: both;
+    /*border-top: 2px solid #999999;*/
+    width: 1240px;
+    height: 180px;
+    margin-bottom: 25px;
+    /* background: #F5FF69;*/
+}
+
+hr {
+    width: 900px;
+    height: 2px;
+    align: center;
+    margin-top: 5px;
+    background-color: #999999;
+}
+
+.copy{
+text-align: center;
+margin: 5px auto 10px auto;
+font-size: 10px;
+}
+
+
+.insta {
+    width: 145px;
+    height: 45px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin: 20px auto 0px auto;*/
+    /*margin-top: 20px;
+margin-bottom: -1px;
+border: 1px solid #000000;
+border-radius: 3px 3px/3px 3px;*/
+}
+
+.insta img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.insta-photo {
+    width: 810px;
+    height: 110;
+    margin-left: auto;
+    margin-right: auto;
+    /*border: 1px solid #000000;
+border-radius: 3px 3px/3px 3px;
+padding: 5px;*/
+}
+
+.insta-photo iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1.midashi01 {
+/*display: block;*/
+width: 1240px;
+height:30px;
+background: #F5F5F5;
+margin-top: 2px;/*メニューとの間を空けるため*/
+text-align: center;
+/*padding: 0 0 5px 0;*/
+font-size: 24px;
+}
+
+
+
+/*--------------------------------------------------ここまで共通 -----------------------------------------*/
+
+
+.midashi02{
+	width: 960px;
+	height: 20px;
+	margin: 20px auto 15px auto;
+    padding: 0;
+    text-align: center;
+}
+
+.midashi02 h2{
+display: inline;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;
+	}
+.midashi02 h4{
+display: inline;
+margin: 0;
+padding: 0;
+}
+
+
+#contents {
+    /*background: #70FB5B;*/
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+    font-size: 14px;
+}
+
+.contents-wrapper {
+    width: 1100px;
+   /* margin-top: 13px;
+    margin-bottom: 30px;*/
+    /*margin-left: auto;
+margin-right: auto;*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-around;
+}
+
+
+#contents img {
+    /*border: 1px solid #000000;*/
+    border: 1px inset #6E7955;
+    padding: 5px;
+    background: #ffffff;
+}
+
+.cap {
+    width: 312px;
+    margin: 5px 0 20px 0;
+   z-index: 1000;
+}
+
+
+/*---------------画像センタリング用↓-----------------------------*/
+
+ul.bxslider li {
+    height: 237px;
+    width: 312px;
+    position: relative;
+}
+
+li img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+/*------------------ここまで↑-----------------------------------------*/
+
+ul.cap2 {
+    list-style: none;
+    padding-left: 10px;
+    line-height: 110%;
+}
+
+li.name {
+    font-weight: bold;
+}
+
+li.kakaku {
+    text-align: center;
+    font-weight: bold;
+}
+
+.bx1 {
+    width: 312px;
+}
+
+.bx2 {
+    width: 312px;
+    height: 150px;
+    margin: -32px auto 0 auto;
+}
+
+
+/*---------------------------------------ここから bxslider -----------------------------------------*/
+
+
+/** VARIABLES
+===================================*/
+
+
+/** RESET AND LAYOUT
+===================================*/
+
+.bx-wrapper {
+    position: relative;
+    margin-bottom: 60px;
+    padding: 0;
+    *zoom: 1;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+}
+
+.bx-wrapper img {
+    max-width: 100%;
+    display: block;
+}
+
+.bxslider {
+    margin: 0;
+    padding: 0;
+}
+
+ul.bxslider {
+    list-style: none;
+}
+
+.bx-viewport {
+    /*fix other elements on the page moving (on Chrome)*/
+    -webkit-transform: translatez(0);
+}
+
+
+/** THEME
+===================================*/
+
+
+/*--------------------影を隠すため---------------------------------
+.bx-wrapper {
+  -moz-box-shadow: 0 0 5px #ccc;
+  -webkit-box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #ccc;
+  border: 5px solid #fff;
+  background: #fff;
+}
+---------------------影を隠すため、ここまで---------------------------*/
+
+.bx-wrapper .bx-pager,
+.bx-wrapper .bx-controls-auto {
+    position: absolute;
+    bottom: -30px;
+    width: 100%;
+}
+
+
+/* LOADER */
+
+.bx-wrapper .bx-loading {
+    min-height: 50px;
+    background: url('../js/jquery.bxslider/images/bx_loader.gif') center center no-repeat #ffffff;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+   	z-index: 2000;
+}
+
+
+/* PAGER */
+
+
+/*------------------------------オリジナル---------------------------------------
+.bx-wrapper .bx-pager {
+  text-align: center;
+  font-size: .85em;
+  font-family: Arial;
+  font-weight: bold;
+  color: #666;
+  padding-top: 20px;
+}
+------------------------------ここまで----------------------------------------*/
+
+.bx-wrapper .bx-pager {
+    text-align: center;
+    font-size: .85em;
+    font-family: Arial;
+    font-weight: bold;
+    color: #666;
+    padding-top: 0;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+    background: #BEBEBE;
+    text-indent: -9999px;
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin: -20px 5px 0 5px;
+    /*Pagerの位置調整*/
+    outline: 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+/*-------------------------------2段PAGER用------------------------------------*/
+
+.p2 .bx-wrapper .bx-pager.bx-default-pager a {
+    position: relative;
+    background: #BEBEBE;
+    text-indent: -9999px;
+    display: block;
+    width: 10px;
+    height: 10px;
+    margin: 4px 5px 0 5px;
+    /*Pagerの位置調整*/
+    outline: 0;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+/*-------------------------------2段PAGER用ここまで------------------------------------*/
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active,
+.bx-wrapper .bx-pager.bx-default-pager a:focus {
+    background: #000;
+}
+
+.bx-wrapper .bx-pager-item,
+.bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+    display: inline-block;
+    vertical-align: bottom;
+    *zoom: 1;
+    *display: inline;
+}
+
+.bx-wrapper .bx-pager-item {
+    font-size: 0;
+    line-height: 0;
+}
+
+
+/* DIRECTION CONTROLS (NEXT / PREV) */
+
+.bx-wrapper .bx-prev {
+    display: none;
+    /*----------------------------左矢印、隠す-------------------------------*/
+    left: 10px;
+    background: url('../js/jquery.bxslider/images/controls.png') no-repeat 0 -32px;
+}
+
+.bx-wrapper .bx-prev:hover,
+.bx-wrapper .bx-prev:focus {
+    background-position: 0 0;
+}
+
+.bx-wrapper .bx-next {
+    display: none;
+    /*----------------------------右矢印、隠す-------------------------------*/
+    right: 10px;
+    background: url('../js/jquery.bxslider/images/controls.png') no-repeat -43px -32px;
+}
+
+.bx-wrapper .bx-next:hover,
+.bx-wrapper .bx-next:focus {
+    background-position: -43px 0;
+}
+
+.bx-wrapper .bx-controls-direction a {
+    position: absolute;
+    top: 50%;
+    margin-top: -16px;
+    outline: 0;
+    width: 32px;
+    height: 32px;
+    text-indent: -9999px;
+    z-index: 2000;
+}
+
+.bx-wrapper .bx-controls-direction a.disabled {
+    display: none;
+}
+
+
+/* AUTO CONTROLS (START / STOP) */
+
+
+/*
+.bx-wrapper .bx-controls-auto {
+  text-align: center;
+}
+.bx-wrapper .bx-controls-auto .bx-start {
+  display: block;
+  text-indent: -9999px;
+  width: 10px;
+  height: 11px;
+  outline: 0;
+  background: url('../pedal/jquery.bxslider/images/controls.png') -86px -11px no-repeat;
+  margin: 0 3px;
+}
+.bx-wrapper .bx-controls-auto .bx-start:hover,
+.bx-wrapper .bx-controls-auto .bx-start.active,
+.bx-wrapper .bx-controls-auto .bx-start:focus {
+  background-position: -86px 0;
+}
+.bx-wrapper .bx-controls-auto .bx-stop {
+  display: block;
+  text-indent: -9999px;
+  width: 9px;
+  height: 11px;
+  outline: 0;
+  background: url('../pedal/jquery.bxslider/images/controls.png') -86px -44px no-repeat;
+  margin: 0 3px;
+}
+.bx-wrapper .bx-controls-auto .bx-stop:hover,
+.bx-wrapper .bx-controls-auto .bx-stop.active,
+.bx-wrapper .bx-controls-auto .bx-stop:focus {
+  background-position: -86px -33px;
+}
+*/
+
+
+/* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
+
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager {
+    text-align: left;
+    width: 80%;
+}
+
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto {
+    right: 0;
+    width: 35px;
+}
+
+
+/* IMAGE CAPTIONS */
+
+.bx-wrapper .bx-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #666;
+    background: rgba(80, 80, 80, 0.75);
+    width: 100%;
+}
+
+.bx-wrapper .bx-caption span {
+    color: #fff;
+    font-family: Arial;
+    display: block;
+    font-size: .85em;
+    padding: 10px;
+}
+
+
+/*------------------------------------ここからShadowbox用-------------------------------------------------------------*/
+
