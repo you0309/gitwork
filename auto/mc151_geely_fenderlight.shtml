@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="./css/style3auto.css" type="text/css">
+	<link type="text/css" href="../css/shadowbox.css" rel="stylesheet" media="all" />
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/myscript.js"></script>
+	<script type="text/javascript" src="../js/shadowbox.js"></script>
+	
+	<script type="text/javascript">
+    Shadowbox.init();
+	</script>
+	
+	<title>GEELY FenderLight 50cc Fashion Scooter</title>
+</head>
+
+<body>
+<header id="header">
+<!--#INCLUDE FILE="autoheader.html"-->
+</header>
+
+<main id="main">   
+<h1 class="midashi01">GEELY FenderLight 50cc Fashion Scooter</h1>
+
+<div id="contents">
+<div id="contents-wrapper" class="01">
+<a href="img/mc151_geely_fenderlight/02.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/02.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/01.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/01.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/03.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/03.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/04.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/04.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/05.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/05.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/06.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/06.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/07.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/07.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/08.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/08.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/09.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/09.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/10.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/10.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/11.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/11.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/12.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/12.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/13.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/13.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/14.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/14.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/15.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/15.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/001.jpg" rel="shadowbox[geely]" title="ヴィンテージ物シングルサドルシート装着"><img src="img/mc151_geely_fenderlight/s/001.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/002.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/002.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/003.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/003.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/004.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/004.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/005.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/005.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/006.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/006.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/17.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/17.jpg" alt=""></a>
+<a href="img/mc151_geely_fenderlight/19.jpg" rel="shadowbox[geely]"><img src="img/mc151_geely_fenderlight/s/19.jpg" alt=""></a>
+</div>
+
+
+</div><!-- #contents -->
+
+ </main>
+ <footer id="footer">
+<!--#INCLUDE FILE="autofooter.html"-->
+
+ </footer>
+
+</body>
+</html>

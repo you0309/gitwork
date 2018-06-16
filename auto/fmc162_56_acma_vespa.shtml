@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="./css/style3auto.css" type="text/css">
+	<link type="text/css" href="../css/shadowbox.css" rel="stylesheet" media="all" />
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/myscript.js"></script>
+	<script type="text/javascript" src="../js/shadowbox.js"></script>
+	
+	<script type="text/javascript">
+    Shadowbox.init();
+	</script>
+	
+	<title>1956 ACMA VESPA 125cc</title>
+</head>
+
+<body>
+     <header id="header">
+     
+<!--#INCLUDE FILE="autoheader.html"-->
+
+</header>
+
+<main id="main">
+   
+<h1 class="midashi01">1956 ACMA VESPA 125cc(made in FRANCE)</h1>
+
+<div id="contents">
+<div id="contents-wrapper" class="01">
+
+<a href="img/fmc162_56_acma_vespa/01.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/01.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/02.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/02.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/03.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/03.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/04.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/04.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/05.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/05.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/06.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/06.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/07.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/07.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/08.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/08.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/09.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/09.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/10.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/10.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/11.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/11.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/12.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/12.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/13.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/13.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/14.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/14.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/15.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/15.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/16.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/16.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/17.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/17.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/18.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/18.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/19.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/19.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/20.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/20.jpg" alt=""></a>
+<a href="img/fmc162_56_acma_vespa/21.jpg" rel="shadowbox[fmc162]"><img src="img/fmc162_56_acma_vespa/s/21.jpg" alt=""></a>
+
+</div>
+</div><!-- #contents -->
+
+ </main>
+
+ <footer id="footer">
+<!--#INCLUDE FILE="autofooter.html"-->
+
+ </footer>
+
+</body>
+</html>

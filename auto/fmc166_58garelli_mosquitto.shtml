@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="./css/style3auto.css" type="text/css">
+	<link type="text/css" href="../css/shadowbox.css" rel="stylesheet" media="all" />
+	<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/myscript.js"></script>
+	<script type="text/javascript" src="../js/shadowbox.js"></script>
+	
+	<script type="text/javascript">
+    Shadowbox.init();
+	</script>
+	
+	<title>1958 GARELLI MOBY MOSQUITTO 50cc</title>
+</head>
+
+<body>
+<header id="header">
+<!--#INCLUDE FILE="autoheader.html"-->
+</header>
+
+<main id="main">
+   
+<h1 class="midashi01">1958 GARELLI MOBY MOSQUITTO 50cc</h1>
+
+<div id="contents">
+<div id="contents-wrapper" class="01">
+<a href="img/fmc166_58garelli_mosquitto/01.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/01.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/02.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/02.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/03.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/03.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/04.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/04.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/05.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/05.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/06.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/06.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/07.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/07.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/08.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/08.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/09.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/09.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/10.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/10.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/11.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/11.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/12.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/12.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/13.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/13.jpg" alt=""></a>
+<a href="img/fmc166_58garelli_mosquitto/14.jpg" rel="shadowbox[fmc166]"><img src="img/fmc166_58garelli_mosquitto/s/14.jpg" alt=""></a>
+</div><!-- end contents-wrapper -->
+</div><!-- #contents -->
+
+</main>
+
+<footer id="footer">
+<!--#INCLUDE FILE="autofooter.html"-->
+</footer>
+
+</body>
+</html>

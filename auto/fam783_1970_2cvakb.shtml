@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="./css/style3auto.css" type="text/css">
+	<link type="text/css" href="../css/shadowbox.css" rel="stylesheet" media="all" />
+	<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/myscript.js"></script>
+	<script type="text/javascript" src="../js/shadowbox.js"></script>
+	
+	<script type="text/javascript">
+    Shadowbox.init();
+	</script>
+	
+	<title>1970 CITRO&Euml;N 2CV AKB</title>
+</head>
+
+<body>
+     <header id="header">
+     
+<!--#INCLUDE FILE="autoheader.html"-->     
+     
+    </header>
+
+ <main id="main">
+   
+<h1 class="midashi01">1970 CITRO&Euml;N 2CV AKB</h1>
+
+<div id="contents">
+<div id="contents-wrapper" class="01">
+<a href="img/fam783_1970_2cvakb/01.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/01.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/02.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/02.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/03.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/03.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/04.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/04.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/05.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/05.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/06.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/06.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/07.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/07.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/08.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/08.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/09.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/09.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/10.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/10.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/11.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/11.jpg" alt=""></a>
+<a href="img/fam783_1970_2cvakb/12.jpg" rel="shadowbox[akb]"><img src="img/fam783_1970_2cvakb/s/12.jpg" alt=""></a>
+</div>
+
+
+</div><!-- #contents -->
+
+ </main>
+
+ <footer id="footer">
+<!--#INCLUDE FILE="autofooter.html"-->
+ </footer>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="./css/style3auto.css" type="text/css">
+	<link type="text/css" href="../css/shadowbox.css" rel="stylesheet" media="all" />
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/myscript.js"></script>
+	<script type="text/javascript" src="../js/shadowbox.js"></script>
+	
+	<script type="text/javascript">
+    Shadowbox.init();
+	</script>
+	
+	<title>1981 PEUGEOT 105R 50cc</title>
+</head>
+
+<body>
+     <header id="header">
+     
+<!--#INCLUDE FILE="autoheader.html"-->
+
+</header>
+
+<main id="main">
+   
+<h1 class="midashi01">1981 PEUGEOT 105R 50cc(made in FRANCE)</h1>
+
+<div id="contents">
+<div id="contents-wrapper" class="01">
+
+<a href="img/fmc167_81peugeot_105r/01.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/01.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/02.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/02.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/03.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/03.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/04.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/04.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/05.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/05.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/06.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/06.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/08.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/08.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/09.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/09.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/10.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/10.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/11.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/11.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/12.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/12.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/13.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/13.jpg" alt=""></a>
+<a href="img/fmc167_81peugeot_105r/14.jpg" rel="shadowbox[105]"><img src="img/fmc167_81peugeot_105r/s/14.jpg" alt=""></a>
+
+</div>
+</div><!-- #contents -->
+
+ </main>
+
+ <footer id="footer">
+<!--#INCLUDE FILE="autofooter.html"-->
+
+ </footer>
+
+</body>
+</html>
